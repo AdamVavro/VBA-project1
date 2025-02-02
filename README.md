@@ -171,10 +171,10 @@ Aplikácia slúži na jednoduché vytvorenie plánu upínania (ďalej len "plán
 <!--_________________________________________________________7.5__________________________________________________________________-->
 <details><summary>7.5 Prítomnosť pridržiavača alebo GDF a možnosť upnutia do lisov PWS.</summary>
 
-![SCRENSHOT]()
+![SCRENSHOT](https://github.com/AdamVavro/VBA-project1/blob/KT05_05/Screenshots/%C5%A4ahovka/12.%20Pr%C3%ADtomnos%C5%A5%20pridr%C5%BEiava%C4%8Dov%20alebo%20GDF%20a%20mo%C5%BEnos%C5%A5%20upnutia%20do%20lisov%20PWS.jpg)
 <details><summary>kód</summary>
 
-![CODE]()
+![CODE](https://github.com/AdamVavro/VBA-project1/blob/KT05_05/Code/Code%20screenshots/12.%2C%2013.%20Pr%C3%ADtomnos%C5%A5%20pridr%C5%BEiava%C4%8Dov%2C%20mo%C5%BEnos%C5%A5%20upnutia.jpg)
 </details>
 
 ---
@@ -183,7 +183,7 @@ Aplikácia slúži na jednoduché vytvorenie plánu upínania (ďalej len "plán
 <!--_________________________________________________________7.6__________________________________________________________________-->
 <details><summary>7.6 Dialógové okno „Prajete si vyznačiť pozíciu tlačných čapov?“.</summary>
 
-![SCRENSHOT]()
+![SCRENSHOT](https://github.com/AdamVavro/VBA-project1/blob/KT05_05/Screenshots/%C5%A4ahovka/13.%20Prajete%20si%20vyzna%C4%8Di%C5%A5%20poz%C3%ADciu%20%C4%8Dapov.jpg)
 <details><summary>kód</summary>
 
 ![CODE]()
