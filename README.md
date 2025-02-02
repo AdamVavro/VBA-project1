@@ -270,7 +270,7 @@ Aplikácia slúži na jednoduché vytvorenie plánu upínania (ďalej len "plán
 ![SCRENSHOT](https://github.com/AdamVavro/VBA-project1/blob/KT05_05/Screenshots/%C5%A4ahovka/20.%20Pozn%C3%A1mky(1).jpg)
 <details><summary>kód</summary>
 
-![CODE]()
+![CODE](https://github.com/AdamVavro/VBA-project1/blob/KT05_05/Code/Code%20screenshots/20.%20Pozn%C3%A1mky.jpg)
 </details>
 
 ---
@@ -319,12 +319,12 @@ Aplikácia slúži na jednoduché vytvorenie plánu upínania (ďalej len "plán
 </details>-->
 
 <!--8._________________________________________________________________________________________________________________________________________________________________________________________________-->
-<details><summary>8.<ins></ins></summary>
+<details><summary>8.<ins>Po kliknutí na tlačidlo "Zatvoriť formulár" sa formulár zavrie.</ins></summary>
 
-![SCRENSHOT]()
+![SCRENSHOT](https://github.com/AdamVavro/VBA-project1/blob/KT05_05/Screenshots/%C5%A4ahovka/20.%20Pozn%C3%A1mky%2C%20zatvori%C5%A5%20formul%C3%A1r.jpg)
 <details><summary>kód</summary>
 
-![CODE]()
+![CODE](https://github.com/AdamVavro/VBA-project1/blob/KT05_05/Code/Code%20screenshots/20.1%20Zatvorit%20formul%C3%A1r.jpg)
 </details>
 
 ---
@@ -336,12 +336,12 @@ Aplikácia slúži na jednoduché vytvorenie plánu upínania (ďalej len "plán
         ![Alternatívny text](https://github.com/AdamVavro/VBA-project1/blob/KT05_05/Code/Code%20screenshots/20.%20Pozn%C3%A1mky%2C%20Zatvorit%20formul%C3%A1r.jpg)</details>-->
 
  <!--9._________________________________________________________________________________________________________________________________________________________________________________________________-->
-<details><summary>9.<ins></ins></summary>
+<details><summary>9.<ins>Zobrazí sa plán s doplnenými údajmi.</ins></summary>
 
-![SCRENSHOT]()
+![SCRENSHOT](https://github.com/AdamVavro/VBA-project1/blob/KT05_05/Screenshots/%C5%A4ahovka/21.%20Na%C4%8D%C3%ADtanie%20udajov%20z%20formul%C3%A1ra%20do%20pl%C3%A1nu.jpg)
 <details><summary>kód</summary>
 
-![CODE]()
+<!--![CODE]()-->
 </details>
 
 ---
