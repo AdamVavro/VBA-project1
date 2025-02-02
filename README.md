@@ -116,7 +116,28 @@ Aplikácia slúži na jednoduché vytvorenie plánu upínania (ďalej len "plán
 <!--6.	[Formulár.]()<details><summary>Kód</summary>![Alternatívny text]()</details>-->
 
 <!--7._________________________________________________________________________________________________________________________________________________________________________________________________-->
-7.	[Otvoríme 3D model nástroja a pozapisujeme všetky údaje do formulára.](https://github.com/AdamVavro/VBA-project1/blob/KT05_05/Screenshots/%C5%A4ahovka/07.%20Otvorenie%20CAD%20modelu.jpg)
+<details><summary>7.<ins>Otvoríme 3D model nástroja a pozapisujeme všetky údaje do formulára.</ins></summary>
+
+<!--![SCRENSHOT](https://github.com/AdamVavro/VBA-project1/blob/KT05_05/Screenshots/%C5%A4ahovka/07.%20Otvorenie%20CAD%20modelu.jpg)-->
+
+<!--_________________________________________________________7.1_______________________________________________________________________________________________________________________________________-->
+<details><summary>Rozmery nástroja D, Š, V.</summary>
+
+![SCRENSHOT]()
+<details><summary>kód</summary>
+
+![CODE]()
+</details>
+
+---
+![CODE]()
+</details>
+
+---
+</details>
+
+
+	[Otvoríme 3D model nástroja a pozapisujeme všetky údaje do formulára.](https://github.com/AdamVavro/VBA-project1/blob/KT05_05/Screenshots/%C5%A4ahovka/07.%20Otvorenie%20CAD%20modelu.jpg)
     <details>
       
       <summary>
