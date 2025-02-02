@@ -120,8 +120,78 @@ Aplikácia slúži na jednoduché vytvorenie plánu upínania (ďalej len "plán
 
 <!--![SCRENSHOT](https://github.com/AdamVavro/VBA-project1/blob/KT05_05/Screenshots/%C5%A4ahovka/07.%20Otvorenie%20CAD%20modelu.jpg)-->
 
-<!--_________________________________________________________7.1_______________________________________________________________________________________________________________________________________-->
-<details><summary>Rozmery nástroja D, Š, V.</summary>
+<!--_________________________________________________________7.1_________________________________________________________________-->
+<details><summary>7.1 Rozmery nástroja D, Š, V.</summary>
+
+![SCRENSHOT](https://github.com/AdamVavro/VBA-project1/blob/KT05_05/Screenshots/%C5%A4ahovka/08.%20Rozmery%20n%C3%A1stroja.jpg)
+<details><summary>kód</summary>
+
+![CODE](https://github.com/AdamVavro/VBA-project1/blob/KT05_05/Code/Code%20screenshots/08.%20Rozmery%20n%C3%A1stroja.jpg)
+</details>
+
+---
+</details>
+<!--_____________________________________________________________________________________________________________________________-->
+<!--_________________________________________________________7.2__________________________________________________________________-->
+<details><summary>7.2 Vzdialenosť medzi drážkami.</summary>
+
+![SCRENSHOT](https://github.com/AdamVavro/VBA-project1/blob/KT05_05/Screenshots/%C5%A4ahovka/09.Vzdialenos%C5%A5%20medzi%20dr%C3%A1%C5%BEkami.jpg)
+<details><summary>kód</summary>
+
+![CODE](https://github.com/AdamVavro/VBA-project1/blob/KT05_05/Code/Code%20screenshots/09.%2C%2010.%2C%2011.%20Vzdialenos%C5%A5%20medzi%20obl%C3%BAkmi%2C%20GDF(OB)%2C%20up%C3%ADnacia%20v%C3%BD%C5%A1ka.jpg)
+</details>
+
+---
+</details>
+<!--_____________________________________________________________________________________________________________________________-->
+<!--_________________________________________________________7.3__________________________________________________________________-->
+<details><summary>7.3 GDF(OB).</summary>
+
+![SCRENSHOT](https://github.com/AdamVavro/VBA-project1/blob/KT05_05/Screenshots/%C5%A4ahovka/10.%20GDF(OB).jpg)
+<details><summary>kód</summary>
+
+```
+'ZDVIH OBVODOVYCH GDF
+Súkromné Sub CheckBox15_Click()
+    Pri chybe Pokračovať ďalej
+    Pracovné listy ("AIO_Plan").Zrušiť ochranu hesla:="Lis.0123"
+
+
+    AkCheckBox15.Value =Pravda Potom
+          Rozsah("L6").Hodnota ="Zdvih obvodových GDF"
+          CheckBox16.Locked =Pravda
+    Inak: Rozsah("L6").Hodnota =""
+          CheckBox16.Locked =Nepravdivé
+    End If
+    
+    Pracovné listy ("AIO_Plan").Ochrana heslom:="Lis.0123"
+    Pri chybe Prejsť na 0
+End Sub
+'ZDVIH ODSTAVOVACICH BLOKOV
+Súkromné Sub CheckBox16_Click()
+    
+    Pri chybe Pokračovať ďalej
+    Pracovné listy ("AIO_Plan").Zrušiť ochranu hesla:="Lis.0123"
+    
+        AkCheckBox16.Value =Pravda Potom
+              Rozsah("L6").Hodnota ="Výška odstavovacích blokov"
+              CheckBox15.Locked =Pravda
+        Inak: Rozsah("L6").Hodnota =""
+              CheckBox15.Locked =Nepravdivé
+        End If
+    
+    Pracovné listy ("AIO_Plan").Ochrana heslom:="Lis.0123"
+    Pri chybe Prejsť na 0
+End Sub
+```
+<!--![CODE](https://github.com/AdamVavro/VBA-project1/blob/146022f3459c3358e4e7c60a68bcaef464cd5bd6/Code/Formulare/UserForm1.frm#L94-L124)-->
+</details>
+
+---
+</details>
+<!--_____________________________________________________________________________________________________________________________-->
+<!--_________________________________________________________7.4__________________________________________________________________-->
+<details><summary>7.4 Upínacia výška nástroja.</summary>
 
 ![SCRENSHOT]()
 <details><summary>kód</summary>
@@ -130,49 +200,157 @@ Aplikácia slúži na jednoduché vytvorenie plánu upínania (ďalej len "plán
 </details>
 
 ---
+</details>
+<!--_____________________________________________________________________________________________________________________________-->
+<!--_________________________________________________________7.5__________________________________________________________________-->
+<details><summary>7.5 Prítomnosť pridržiavača alebo GDF a možnosť upnutia do lisov PWS.</summary>
+
+![SCRENSHOT]()
+<details><summary>kód</summary>
+
 ![CODE]()
 </details>
 
 ---
 </details>
+<!--_____________________________________________________________________________________________________________________________-->
+<!--_________________________________________________________7.6__________________________________________________________________-->
+<details><summary>7.6 Dialógové okno „Prajete si vyznačiť pozíciu tlačných čapov?“.</summary>
+
+![SCRENSHOT]()
+<details><summary>kód</summary>
+
+![CODE]()
+</details>
+
+---
+</details>
+<!--_____________________________________________________________________________________________________________________________-->
+<!--_________________________________________________________7.7__________________________________________________________________-->
+<details><summary>7.7 Po potvrdení sa formulár zatvorí okno s plánom zmení rozmer a presunie sa vľavo dole a zobrazí raster stola. Po aktivovaní bunky v rastri stola sa zobrazia tlačidlá „Centrovanie“, „Tlačný čap“, „Voľné miesto“, „OK“.</summary>
+
+![SCRENSHOT]()
+<details><summary>kód</summary>
+
+![CODE]()
+</details>
+
+---
+</details>
+<!--_____________________________________________________________________________________________________________________________-->
+<!--_________________________________________________________7.8__________________________________________________________________-->
+<details><summary>7.8 Pomocou zobrazených tlačidiel sa vyznačia pozície tlačných čapov.</summary>
+
+![SCRENSHOT]()
+<details><summary>kód</summary>
+
+![CODE]()
+</details>
+
+---
+</details>
+<!--_____________________________________________________________________________________________________________________________-->
+<!--_________________________________________________________7.9__________________________________________________________________-->
+<details><summary>7.9 Keď je všetko vyznačené pomocou tlačidla „OK“ sa okno zavrie a opäť sa zobrazí formulár.</summary>
+
+![SCRENSHOT]()
+<details><summary>kód</summary>
+
+![CODE]()
+</details>
+
+---
+</details>
+<!--_____________________________________________________________________________________________________________________________-->
+<!--_________________________________________________________7.10__________________________________________________________________-->
+<details><summary>7.10 Priemer centrovania.</summary>
+
+![SCRENSHOT]()
+<details><summary>kód</summary>
+
+![CODE]()
+</details>
+
+---
+</details>
+<!--_____________________________________________________________________________________________________________________________-->
+<!--_________________________________________________________7.11__________________________________________________________________-->
+<details><summary>7.11 Po zapísaní súradníc centrovania z modelu sa automaticky prevedú na súradnice plánu upínania  a podľa nich sa vyznačí v rastri stola pozícia centrovania.</summary>
+
+![SCRENSHOT]()
+<details><summary>kód</summary>
+
+![CODE]()
+</details>
+
+---
+</details>
+<!--_____________________________________________________________________________________________________________________________-->
+<!--_________________________________________________________7.12__________________________________________________________________-->
+<details><summary>7.12 Po zadaní smeru lisovania sa v pláne zobrazí smer lisovania.</summary>
+
+![SCRENSHOT]()
+<details><summary>kód</summary>
+
+![CODE]()
+</details>
+
+---
+</details>
+<!--_____________________________________________________________________________________________________________________________-->
+<!--_________________________________________________________7.13__________________________________________________________________-->
+<details><summary>7.13 Vyplniť poznámky.</summary>
+
+![SCRENSHOT]()
+<details><summary>kód</summary>
+
+![CODE]()
+</details>
+
+---
+</details>
+<!--_____________________________________________________________________________________________________________________________-->
+
+---
+</details>
 
 
-	[Otvoríme 3D model nástroja a pozapisujeme všetky údaje do formulára.](https://github.com/AdamVavro/VBA-project1/blob/KT05_05/Screenshots/%C5%A4ahovka/07.%20Otvorenie%20CAD%20modelu.jpg)
-    <details>
-      
-      <summary>
-        
-      
+<!--[Otvoríme 3D model nástroja a pozapisujeme všetky údaje do formulára.](https://github.com/AdamVavro/VBA-project1/blob/KT05_05/Screenshots/%C5%A4ahovka/07.%20Otvorenie%20CAD%20modelu.jpg)
+<details>
 
-  	  </summary>
-     
-      -	[Rozmery nástroja D, Š, V.]()<details><summary>Kód</summary>![Alternatívny text]()</details>
+<summary>
 
-      -	[Vzdialenosť medzi drážkami]()<details><summary>Kód</summary>![Alternatívny text]()</details>
 
-      -	[GDF(OB)]()<details><summary>Kód</summary>![Alternatívny text]()</details>
 
-      -	[Upínacia výška nástroja]()<details><summary>Kód</summary>![Alternatívny text]()</details>
+  </summary>
 
-      -	[Prítomnosť pridržiavača alebo GDF a možnosť upnutia do lisov PWS.]()<details><summary>Kód</summary>![Alternatívny text]()</details>
+-	[Rozmery nástroja D, Š, V.]()<details><summary>Kód</summary>![Alternatívny text]()</details>
 
-      -	[Dialógové okno „Prajete si vyznačiť pozíciu tlačných čapov?“.]()<details><summary>Kód</summary>![Alternatívny text]()</details>
+-	[Vzdialenosť medzi drážkami]()<details><summary>Kód</summary>![Alternatívny text]()</details>
 
-      -	[Po potvrdení sa formulár zatvorí okno s plánom zmení rozmer a presunie sa vľavo dole a zobrazí raster stola. Po aktivovaní bunky v rastri stola sa zobrazia tlačidlá „Centrovanie“, „Tlačný čap“, „Voľné miesto“, „OK“.]()<details><summary>Kód</summary>!     [Alternatívny text]()</details>
+-	[GDF(OB)]()<details><summary>Kód</summary>![Alternatívny text]()</details>
 
-      -	[Pomocou zobrazených tlačidiel sa vyznačia pozície tlačných čapov.]()<details><summary>Kód</summary>![Alternatívny text]()</details>
+-	[Upínacia výška nástroja]()<details><summary>Kód</summary>![Alternatívny text]()</details>
 
-      -	[Keď je všetko vyznačené pomocou tlačidla „OK“ sa okno zavrie a opäť sa zobrazí formulár.]()<details><summary>Kód</summary>![Alternatívny text]()</details>
+-	[Prítomnosť pridržiavača alebo GDF a možnosť upnutia do lisov PWS]()<details><summary>Kód</summary>![Alternatívny text]()</details>
 
-      -	[Priemer centrovania]()<details><summary>Kód</summary>![Alternatívny text]()</details>
+-	[Dialógové okno „Prajete si vyznačiť pozíciu tlačných čapov?“.]()<details><summary>Kód</summary>![Alternatívny text]()</details>
 
-      -	[Po zapísaní súradníc centrovania z modelu sa automaticky prevedú na súradnice plánu upínania  a podľa nich sa vyznačí v rastri stola pozícia centrovania.]()<details><summary>Kód</summary>![Alternatívny text]()</details>
+-	[Po potvrdení sa formulár zatvorí okno s plánom zmení rozmer a presunie sa vľavo dole a zobrazí raster stola. Po aktivovaní bunky v rastri stola sa zobrazia tlačidlá „Centrovanie“, „Tlačný čap“, „Voľné miesto“, „OK“.]()<details><summary>Kód</summary>!     [Alternatívny text]()</details>
 
-      -	[Po zadaní smeru lisovania sa v pláne zobrazí smer lisovania]()<details><summary>Kód</summary>![Alternatívny text]()</details>
+-	[Pomocou zobrazených tlačidiel sa vyznačia pozície tlačných čapov.]()<details><summary>Kód</summary>![Alternatívny text]()</details>
 
-      - [Vyplniť poznámky]()<details><summary>Kód</summary>![Alternatívny text]()</details>
-      
-     </details>
+-	[Keď je všetko vyznačené pomocou tlačidla „OK“ sa okno zavrie a opäť sa zobrazí formulár.]()<details><summary>Kód</summary>![Alternatívny text]()</details>
+
+-	[Priemer centrovania]()<details><summary>Kód</summary>![Alternatívny text]()</details>
+
+-	[Po zapísaní súradníc centrovania z modelu sa automaticky prevedú na súradnice plánu upínania  a podľa nich sa vyznačí v rastri stola pozícia centrovania.]()<details><summary>Kód</summary>![Alternatívny text]()</details>
+
+-	[Po zadaní smeru lisovania sa v pláne zobrazí smer lisovania]()<details><summary>Kód</summary>![Alternatívny text]()</details>
+
+- [Vyplniť poznámky]()<details><summary>Kód</summary>![Alternatívny text]()</details>
+
+</details>-->
 
 <!--8._________________________________________________________________________________________________________________________________________________________________________________________________-->
 <details><summary>8.<ins></ins></summary>
