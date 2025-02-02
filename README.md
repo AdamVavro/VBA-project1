@@ -18,7 +18,46 @@ Aplikácia slúži na jednoduché vytvorenie plánu upínania (ďalej len "plán
 
 ![Alternatívny text](https://github.com/AdamVavro/VBA-project1/blob/KT05_05/Screenshots/%C5%A4ahovka/00.%20Komplet.jpg)
 
-1.	[Po otvorení nastaví veľkosť a polohu okna, skryje riadok vzorcov, skryje záhlavia, skryje mriežku a zbalí pás s nástrojmi.](https://github.com/AdamVavro/VBA-project1/blob/KT05_05/Screenshots/%C5%A4ahovka/01.%20Pr%C3%A1zdny%20pl%C3%A1n%20up%C3%ADnania.jpg)<details><summary>Kód</summary>![Alternatívny text](https://github.com/AdamVavro/VBA-project1/blob/KT05_05/Code/Code%20screenshots/01.%20Po%20otvoren%C3%AD%20nastav%C3%AD%20ve%C4%BEkos%C5%A5%20okna.jpg)</details>
+
+<!--1.__________________________________________________________________________________________________________________-->
+<details>
+
+<summary>1.<ins>TEST</ins></summary>
+
+![Screenshot](https://github.com/AdamVavro/VBA-project1/blob/KT05_05/Screenshots/%C5%A4ahovka/01.%20Pr%C3%A1zdny%20pl%C3%A1n%20up%C3%ADnania.jpg)
+
+<details>
+	
+<summary>kód</summary>
+
+![Code Screenshot](https://github.com/AdamVavro/VBA-project1/blob/KT05_05/Code/Code%20screenshots/01.%20Po%20otvoren%C3%AD%20nastav%C3%AD%20ve%C4%BEkos%C5%A5%20okna.jpg)
+
+</details>
+
+---
+
+</details>
+<!--1.__________________________________________________________________________________________________________________-->
+<details>
+
+<summary>1.<ins>Po otvorení nastaví veľkosť a polohu okna, skryje riadok vzorcov, skryje záhlavia, skryje mriežku a zbalí pás s nástrojmi.</ins></summary>
+
+![Screenshot](https://github.com/AdamVavro/VBA-project1/blob/KT05_05/Screenshots/%C5%A4ahovka/01.%20Pr%C3%A1zdny%20pl%C3%A1n%20up%C3%ADnania.jpg)
+
+<details>
+	
+<summary>kód</summary>
+
+![Code Screenshot](https://github.com/AdamVavro/VBA-project1/blob/KT05_05/Code/Code%20screenshots/01.%20Po%20otvoren%C3%AD%20nastav%C3%AD%20ve%C4%BEkos%C5%A5%20okna.jpg)
+
+</details>
+
+---
+
+</details>
+
+
+<!--1.	[Po otvorení nastaví veľkosť a polohu okna, skryje riadok vzorcov, skryje záhlavia, skryje mriežku a zbalí pás s nástrojmi.](https://github.com/AdamVavro/VBA-project1/blob/KT05_05/Screenshots/%C5%A4ahovka/01.%20Pr%C3%A1zdny%20pl%C3%A1n%20up%C3%ADnania.jpg)<details><summary>Kód</summary>![Alternatívny text](https://github.com/AdamVavro/VBA-project1/blob/KT05_05/Code/Code%20screenshots/01.%20Po%20otvoren%C3%AD%20nastav%C3%AD%20ve%C4%BEkos%C5%A5%20okna.jpg)</details>-->
 	 
 2.	[Po zadaní čísla nástroja sa zobrazí dialógové okno, ktoré sa spýta či si prajete doplniť základné údaje o nástroji z databázy.](https://github.com/AdamVavro/VBA-project1/blob/KT05_05/Screenshots/%C5%A4ahovka/02.%20Doplni%C5%A5%20%C3%BAdaje.jpg)<details><summary>Kód</summary>![Alternatívny text](https://github.com/AdamVavro/VBA-project1/blob/KT05_05/Code/Code%20screenshots/02.%20%C4%8C%C3%ADslo%20n%C3%A1stroja.jpg)</details>
 
