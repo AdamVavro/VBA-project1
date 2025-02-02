@@ -138,53 +138,19 @@ Aplikácia slúži na jednoduché vytvorenie plánu upínania (ďalej len "plán
 ![SCRENSHOT](https://github.com/AdamVavro/VBA-project1/blob/KT05_05/Screenshots/%C5%A4ahovka/09.Vzdialenos%C5%A5%20medzi%20dr%C3%A1%C5%BEkami.jpg)
 <details><summary>kód</summary>
 
-![CODE](https://github.com/AdamVavro/VBA-project1/blob/KT05_05/Code/Code%20screenshots/09.%2C%2010.%2C%2011.%20Vzdialenos%C5%A5%20medzi%20obl%C3%BAkmi%2C%20GDF(OB)%2C%20up%C3%ADnacia%20v%C3%BD%C5%A1ka.jpg)
+![CODE](https://github.com/AdamVavro/VBA-project1/blob/KT05_05/Code/Code%20screenshots/09.%20Vzdialenos%C5%A5%20medzi%20obl%C3%BAkmi..jpg)
 </details>
 
 ---
 </details>
 <!--_____________________________________________________________________________________________________________________________-->
 <!--_________________________________________________________7.3__________________________________________________________________-->
-<details><summary>7.3 GDF(OB).</summary>
+<details><summary>7.3 Zdvih GDF(OB).</summary>
 
 ![SCRENSHOT](https://github.com/AdamVavro/VBA-project1/blob/KT05_05/Screenshots/%C5%A4ahovka/10.%20GDF(OB).jpg)
 <details><summary>kód</summary>
 
-```
-'ZDVIH OBVODOVYCH GDF
-Súkromné Sub CheckBox15_Click()
-    Pri chybe Pokračovať ďalej
-    Pracovné listy ("AIO_Plan").Zrušiť ochranu hesla:="Lis.0123"
-
-
-    AkCheckBox15.Value =Pravda Potom
-          Rozsah("L6").Hodnota ="Zdvih obvodových GDF"
-          CheckBox16.Locked =Pravda
-    Inak: Rozsah("L6").Hodnota =""
-          CheckBox16.Locked =Nepravdivé
-    End If
-    
-    Pracovné listy ("AIO_Plan").Ochrana heslom:="Lis.0123"
-    Pri chybe Prejsť na 0
-End Sub
-'ZDVIH ODSTAVOVACICH BLOKOV
-Súkromné Sub CheckBox16_Click()
-    
-    Pri chybe Pokračovať ďalej
-    Pracovné listy ("AIO_Plan").Zrušiť ochranu hesla:="Lis.0123"
-    
-        AkCheckBox16.Value =Pravda Potom
-              Rozsah("L6").Hodnota ="Výška odstavovacích blokov"
-              CheckBox15.Locked =Pravda
-        Inak: Rozsah("L6").Hodnota =""
-              CheckBox15.Locked =Nepravdivé
-        End If
-    
-    Pracovné listy ("AIO_Plan").Ochrana heslom:="Lis.0123"
-    Pri chybe Prejsť na 0
-End Sub
-```
-<!--![CODE](https://github.com/AdamVavro/VBA-project1/blob/146022f3459c3358e4e7c60a68bcaef464cd5bd6/Code/Formulare/UserForm1.frm#L94-L124)-->
+![CODE](https://github.com/AdamVavro/VBA-project1/blob/KT05_05/Code/Code%20screenshots/10.%20Zdvih%20GDF(OB).jpg)
 </details>
 
 ---
@@ -193,10 +159,10 @@ End Sub
 <!--_________________________________________________________7.4__________________________________________________________________-->
 <details><summary>7.4 Upínacia výška nástroja.</summary>
 
-![SCRENSHOT]()
+![SCRENSHOT](https://github.com/AdamVavro/VBA-project1/blob/KT05_05/Screenshots/%C5%A4ahovka/11.%20Up%C3%ADnacia%20v%C3%BD%C5%A1ka%20n%C3%A1stroja.jpg)
 <details><summary>kód</summary>
 
-![CODE]()
+![CODE](https://github.com/AdamVavro/VBA-project1/blob/KT05_05/Code/Code%20screenshots/11.%20Up%C3%ADnacia%20v%C3%BD%C5%A1ka%20n8stroja.jpg)
 </details>
 
 ---
