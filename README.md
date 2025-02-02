@@ -86,12 +86,12 @@ Aplikácia slúži na jednoduché vytvorenie plánu upínania (ďalej len "plán
 <!--4.	[Údaje sa doplnia do plánu.](https://github.com/AdamVavro/VBA-project1/blob/KT05_05/Screenshots/%C5%A4ahovka/04.%20Automatick%C3%A9%20doplnenie%20%C3%BAdajov.jpg)<details><summary>Kód</summary>![Alternatívny text](https://github.com/AdamVavro/VBA-project1/blob/KT05_05/Code/Code%20screenshots/03.-04.%20Na%C4%8D%C3%ADta%20%C3%BAdaje%20z%20datab%C3%A1zy%20a%20dopln%C3%AD%20do%20pl%C3%A1nu.jpg)</details>-->
 
 <!--5._________________________________________________________________________________________________________________________________________________________________________________________________-->
-<details><summary>5.<ins></ins></summary>
+<details><summary>5.<ins>Klikneme na tlačidlo „Otvoriť formulár“. Okno s plánom sa minimalizuje a v ľavej časti obrazovky sa zobrazí formulár pre zápis údajov z modelu.</ins></summary>
 
-![SCRENSHOT]()
+![SCRENSHOT](https://github.com/AdamVavro/VBA-project1/blob/KT05_05/Screenshots/%C5%A4ahovka/05.%20Tla%C4%8Didlo%20otvori%C5%A5%20formul%C3%A1r.jpg)
 <details><summary>kód</summary>
 
-![CODE]()
+![CODE](https://github.com/AdamVavro/VBA-project1/blob/KT05_05/Code/Code%20screenshots/05.%20Tla%C4%8Didlo%20Otvori%C5%A5%20formul%C3%A1r.jpg)
 </details>
 
 ---
@@ -101,12 +101,12 @@ Aplikácia slúži na jednoduché vytvorenie plánu upínania (ďalej len "plán
 <!--5.	[Klikneme na tlačidlo „Otvoriť formulár“. Okno s plánom sa minimalizuje a v ľavej časti obrazovky sa zobrazí formulár pre zápis údajov z modelu.](https://github.com/AdamVavro/VBA-project1/blob/KT05_05/Screenshots/%C5%A4ahovka/05.%20Tla%C4%8Didlo%20otvori%C5%A5%20formul%C3%A1r.jpg)<details><summary>Kód</summary>![Alternatívny text](https://github.com/AdamVavro/VBA-project1/blob/KT05_05/Code/Code%20screenshots/05.%20Tla%C4%8Didlo%20Otvori%C5%A5%20formul%C3%A1r.jpg)</details>-->
 
 <!--6._________________________________________________________________________________________________________________________________________________________________________________________________-->
-<details><summary>6.<ins></ins></summary>
+<details><summary>6.<ins>Formulár.</ins></summary>
 
-![SCRENSHOT]()
+![SCRENSHOT](https://github.com/AdamVavro/VBA-project1/blob/KT05_05/Screenshots/%C5%A4ahovka/06.%20Formul%C3%A1r.jpg)
 <details><summary>kód</summary>
 
-![CODE]()
+[UserForm1.frm](https://github.com/AdamVavro/VBA-project1/blob/KT05_05/Code/Formulare/UserForm1.frm)
 </details>
 
 ---
