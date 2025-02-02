@@ -210,7 +210,7 @@ Aplikácia slúži na jednoduché vytvorenie plánu upínania (ďalej len "plán
 ![SCRENSHOT](https://github.com/AdamVavro/VBA-project1/blob/KT05_05/Screenshots/%C5%A4ahovka/15.%20Vyzna%C4%8Denie%20poz%C3%ADcie%20%C4%8Dapov%2C%20potvrdit%20OK.jpg)
 <details><summary>kód</summary>
 
-![CODE](https://github.com/AdamVavro/VBA-project1/blob/KT05_05/Code/Code%20screenshots/14.%2C%2015.%2C%2016.%20Raster%20stola%2C%20tla%C4%8Didl%C3%A1%20rastra%2C%20n%C3%A1vrat.jpg)
+![CODE](https://github.com/AdamVavro/VBA-project1/blob/KT05_05/Code/Code%20screenshots/15.%20Tla%C4%8Didl%C3%A1%20rastra.jpg)
 </details>
 
 ---
@@ -219,10 +219,10 @@ Aplikácia slúži na jednoduché vytvorenie plánu upínania (ďalej len "plán
 <!--_________________________________________________________7.9__________________________________________________________________-->
 <details><summary>7.9 Keď je všetko vyznačené pomocou tlačidla „OK“ sa okno zavrie a opäť sa zobrazí formulár.</summary>
 
-![SCRENSHOT]()
+![SCRENSHOT](https://github.com/AdamVavro/VBA-project1/blob/KT05_05/Screenshots/%C5%A4ahovka/16.%20N%C3%A1vrat%20do%20formul%C3%A1ra.jpg)
 <details><summary>kód</summary>
 
-![CODE]()
+![CODE](https://github.com/AdamVavro/VBA-project1/blob/KT05_05/Code/Code%20screenshots/16.%20Tla%C4%8Didlo%20OK.jpg)
 </details>
 
 ---
@@ -231,10 +231,9 @@ Aplikácia slúži na jednoduché vytvorenie plánu upínania (ďalej len "plán
 <!--_________________________________________________________7.10__________________________________________________________________-->
 <details><summary>7.10 Priemer centrovania.</summary>
 
-![SCRENSHOT]()
+![SCRENSHOT](https://github.com/AdamVavro/VBA-project1/blob/KT05_05/Screenshots/%C5%A4ahovka/17.%20Priemer%20centrovania.jpg)
 <details><summary>kód</summary>
 
-![CODE]()
 </details>
 
 ---
@@ -243,10 +242,11 @@ Aplikácia slúži na jednoduché vytvorenie plánu upínania (ďalej len "plán
 <!--_________________________________________________________7.11__________________________________________________________________-->
 <details><summary>7.11 Po zapísaní súradníc centrovania z modelu sa automaticky prevedú na súradnice plánu upínania  a podľa nich sa vyznačí v rastri stola pozícia centrovania.</summary>
 
-![SCRENSHOT]()
+![SCRENSHOT](https://github.com/AdamVavro/VBA-project1/blob/KT05_05/Screenshots/%C5%A4ahovka/18.%20S%C3%BAradnice%20centrovania.jpg)
 <details><summary>kód</summary>
 
-![CODE]()
+![CODE](https://github.com/AdamVavro/VBA-project1/blob/KT05_05/Code/Code%20screenshots/18.1%20Centrovanie%20n%C3%A1stroja.jpg)
+![CODE](https://github.com/AdamVavro/VBA-project1/blob/KT05_05/Code/Code%20screenshots/18.2%20Centrovanie%20n%C3%A1stroja.jpg)
 </details>
 
 ---
@@ -255,10 +255,10 @@ Aplikácia slúži na jednoduché vytvorenie plánu upínania (ďalej len "plán
 <!--_________________________________________________________7.12__________________________________________________________________-->
 <details><summary>7.12 Po zadaní smeru lisovania sa v pláne zobrazí smer lisovania.</summary>
 
-![SCRENSHOT]()
+![SCRENSHOT](https://github.com/AdamVavro/VBA-project1/blob/KT05_05/Screenshots/%C5%A4ahovka/19.%20Smer%20lisovania.jpg)
 <details><summary>kód</summary>
 
-![CODE]()
+![CODE](https://github.com/AdamVavro/VBA-project1/blob/KT05_05/Code/Code%20screenshots/19.%20Smer%20lisovania.jpg)
 </details>
 
 ---
@@ -267,7 +267,7 @@ Aplikácia slúži na jednoduché vytvorenie plánu upínania (ďalej len "plán
 <!--_________________________________________________________7.13__________________________________________________________________-->
 <details><summary>7.13 Vyplniť poznámky.</summary>
 
-![SCRENSHOT]()
+![SCRENSHOT](https://github.com/AdamVavro/VBA-project1/blob/KT05_05/Screenshots/%C5%A4ahovka/20.%20Pozn%C3%A1mky(1).jpg)
 <details><summary>kód</summary>
 
 ![CODE]()
