@@ -330,7 +330,6 @@ Aplikácia slúži na jednoduché vytvorenie plánu upínania (ďalej len "plán
 ---
 </details>
 
-
  <!-- 8. <details><summary>Po kliknutí na tlačidlo "Zatvoriť formulár" sa formulár zavrie.</summary>
 ![Alternatívny text](https://github.com/AdamVavro/VBA-project1/blob/KT05_05/Screenshots/%C5%A4ahovka/00.%20Komplet.jpg)
         ![Alternatívny text](https://github.com/AdamVavro/VBA-project1/blob/KT05_05/Code/Code%20screenshots/20.%20Pozn%C3%A1mky%2C%20Zatvorit%20formul%C3%A1r.jpg)</details>-->
@@ -339,55 +338,51 @@ Aplikácia slúži na jednoduché vytvorenie plánu upínania (ďalej len "plán
 <details><summary>9.<ins>Zobrazí sa plán s doplnenými údajmi.</ins></summary>
 
 ![SCRENSHOT](https://github.com/AdamVavro/VBA-project1/blob/KT05_05/Screenshots/%C5%A4ahovka/21.%20Na%C4%8D%C3%ADtanie%20udajov%20z%20formul%C3%A1ra%20do%20pl%C3%A1nu.jpg)
-<details><summary>kód</summary>
+<!--<details><summary>kód</summary>-->
 
 <!--![CODE]()-->
-</details>
+<!--</details>-->
 
 ---
 </details>
-
 
   <!--9.	[Zobrazí sa plán s doplnenými údajmi.]()<details><summary>Kód</summary>![Alternatívny text]()</details>-->
 
   <!--10._________________________________________________________________________________________________________________________________________________________________________________________________-->
-<details><summary>10.<ins></ins></summary>
+<details><summary>10.<ins>Po aktivovaní bunky v oblasti poznámky k nástroju sa zobrazia tlačidlá pre formátovanie poznámok.</ins></summary>
 
-![SCRENSHOT]()
+![SCRENSHOT](https://github.com/AdamVavro/VBA-project1/blob/KT05_05/Screenshots/%C5%A4ahovka/22.%20Form%C3%A1tovanie%20pozn%C3%A1mok.jpg)
 <details><summary>kód</summary>
 
-![CODE]()
+![CODE](https://github.com/AdamVavro/VBA-project1/blob/KT05_05/Code/Code%20screenshots/22.%20Form%C3%A1tovanie%20pozn%C3%A1mok.jpg)
 </details>
 
 ---
 </details>
-
 
  <!-- 10.	[Po aktivovaní bunky v oblasti poznámky k nástroju sa zobrazia tlačidlá pre formátovanie poznámok.]()<details><summary>Kód</summary>![Alternatívny text]()</details>-->
 
 <!--11._________________________________________________________________________________________________________________________________________________________________________________________________-->
-<details><summary>11.<ins></ins></summary>
+<details><summary>11.<ins>Po zapísaní údajov do oblasti „Pracovné tlaky a nastavenia“ sa zobrazí dialógové okno, ktoré sa spýta, či chcem údaj zapísať do databázy.</ins></summary>
 
-![SCRENSHOT]()
+![SCRENSHOT](https://github.com/AdamVavro/VBA-project1/blob/KT05_05/Screenshots/%C5%A4ahovka/23.%20Ulo%C5%BEi%C5%A5%20parametre%20do%20datab%C3%A1zy.jpg)
 <details><summary>kód</summary>
 
-![CODE]()
+![CODE](https://github.com/AdamVavro/VBA-project1/blob/KT05_05/Code/Code%20screenshots/23.%2C%2024.%20Importuje%20Pracovn%C3%A9%20tlaky%20a%20nastavenia%20do%20datab%C3%A1zy.jpg)
 </details>
 
 ---
 </details>
 
-  
-
  <!-- 11.	[Po zapísaní údajov do oblasti „Pracovné tlaky a nastavenia“ sa zobrazí dialógové okno, ktoré sa spýta, či chcem údaj zapísať do databázy.]()<details><summary>Kód</summary>![Alternatívny text]()</details>-->
 
 <!--12._________________________________________________________________________________________________________________________________________________________________________________________________-->
-<details><summary>12.<ins></ins></summary>
+<details><summary>12.<ins>Po potvrdení sa otvorí databáza vyhľadá sa číslo nástroja a konkrétna bunka s príslušným údajom. Údaj sa zapíše do bunky v databáz a v komentári bunky ktorý slúži ako archív sa zaznamená dátum, čas a zapísaná hodnota.</ins></summary>
 
-![SCRENSHOT]()
+![SCRENSHOT](https://github.com/AdamVavro/VBA-project1/blob/KT05_05/Screenshots/%C5%A4ahovka/23.%20Z%C3%A1pis%20parametrov%20do%20datab%C3%A1zy.jpg)
 <details><summary>kód</summary>
 
-![CODE]()
+![CODE](https://github.com/AdamVavro/VBA-project1/blob/KT05_05/Code/Code%20screenshots/23.%2C%2024.%20Importuje%20Pracovn%C3%A9%20tlaky%20a%20nastavenia%20do%20datab%C3%A1zy.jpg)
 </details>
 
 ---
@@ -397,12 +392,12 @@ Aplikácia slúži na jednoduché vytvorenie plánu upínania (ďalej len "plán
  <!-- 12.	[Po potvrdení sa otvorí databáza vyhľadá sa číslo nástroja a konkrétna bunka s príslušným údajom. Údaj sa zapíše do bunky v databáz a v komentári bunky ktorý slúži ako archív sa zaznamená dátum, čas a zapísaná hodnota.]()<details><summary>Kód</summary>![Alternatívny text]()</details>-->
 
 <!--13._________________________________________________________________________________________________________________________________________________________________________________________________-->
-<details><summary>13.<ins></ins></summary>
+<details><summary>13.<ins>Po kliknutí na tlačidlo „Uložiť plán upínania“ sa zobrazí dialógové okno, kde sa zobrazí názov uloženého súboru a adresa kde sa plán uloží.</ins></summary>
 
-![SCRENSHOT]()
+![SCRENSHOT](https://github.com/AdamVavro/VBA-project1/blob/KT05_05/Screenshots/%C5%A4ahovka/25.%20Tla%C4%8Didlo%20ulo%C5%BEi%C5%A5%20pl%C3%A1n%20up%C3%ADnania.jpg)
 <details><summary>kód</summary>
 
-![CODE]()
+![CODE](https://github.com/AdamVavro/VBA-project1/blob/KT05_05/Code/Code%20screenshots/25.%20Ulo%C5%BEi%C5%A5%20pl%C3%A1n%20up%C3%ADnania.jpg)
 </details>
 
 ---
@@ -412,7 +407,7 @@ Aplikácia slúži na jednoduché vytvorenie plánu upínania (ďalej len "plán
  <!-- 13.	[Po kliknutí na tlačidlo „Uložiť plán upínania“ sa zobrazí dialógové okno, kde sa zobrazí názov uloženého súboru a adresa kde sa plán uloží.]()<details><summary>Kód</summary>![Alternatívny text]()</details>-->
 
 <!--14._________________________________________________________________________________________________________________________________________________________________________________________________-->
-<details><summary>14.<ins></ins></summary>
+<details><summary>14.<ins>Po potvrdení sa plán uloží 3x ako pdf súbor, 1x ako xlsm súbor a 1x ako jpg súbor.</ins></summary>
 
 ![SCRENSHOT]()
 <details><summary>kód</summary>
@@ -427,7 +422,7 @@ Aplikácia slúži na jednoduché vytvorenie plánu upínania (ďalej len "plán
 <!--  14.	[Po potvrdení sa plán uloží 3x ako pdf súbor, 1x ako xlsm súbor a 1x ako jpg súbor.]()<details><summary>Kód</summary>![Alternatívny text]()</details>-->
 
 <!--15._________________________________________________________________________________________________________________________________________________________________________________________________-->
-<details><summary>15.<ins></ins></summary>
+<details><summary>15.<ins>Všetky údaje z plánu upínania sa exportujú do databázy.</ins></summary>
 
 ![SCRENSHOT]()
 <details><summary>kód</summary>
@@ -442,7 +437,7 @@ Aplikácia slúži na jednoduché vytvorenie plánu upínania (ďalej len "plán
  <!-- 15.	[Všetky údaje z plánu upínania sa exportujú do databázy]()<details><summary>Kód</summary>![Alternatívny text]()</details>-->
 
 <!--16._________________________________________________________________________________________________________________________________________________________________________________________________-->
-<details><summary>16.<ins></ins></summary>
+<details><summary>16.<ins>V prípade potreby sa dajú do plánu importovať údaje z databázy naspať.</ins></summary>
 
 ![SCRENSHOT]()
 <details><summary>kód</summary>
