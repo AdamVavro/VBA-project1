@@ -186,7 +186,7 @@ Aplikácia slúži na jednoduché vytvorenie plánu upínania (ďalej len "plán
 ![SCRENSHOT](https://github.com/AdamVavro/VBA-project1/blob/KT05_05/Screenshots/%C5%A4ahovka/13.%20Prajete%20si%20vyzna%C4%8Di%C5%A5%20poz%C3%ADciu%20%C4%8Dapov.jpg)
 <details><summary>kód</summary>
 
-![CODE]()
+![CODE](https://github.com/AdamVavro/VBA-project1/blob/KT05_05/Code/Code%20screenshots/12.1%20Prajete%20si%20vyzna%C4%8Di%C5%A5%20poz%C3%ADciu%20tla%C4%8Dn%C3%BDch%20%C4%8Dapov.jpg)
 </details>
 
 ---
@@ -195,10 +195,10 @@ Aplikácia slúži na jednoduché vytvorenie plánu upínania (ďalej len "plán
 <!--_________________________________________________________7.7__________________________________________________________________-->
 <details><summary>7.7 Po potvrdení sa formulár zatvorí okno s plánom zmení rozmer a presunie sa vľavo dole a zobrazí raster stola. Po aktivovaní bunky v rastri stola sa zobrazia tlačidlá „Centrovanie“, „Tlačný čap“, „Voľné miesto“, „OK“.</summary>
 
-![SCRENSHOT]()
+![SCRENSHOT](https://github.com/AdamVavro/VBA-project1/blob/KT05_05/Screenshots/%C5%A4ahovka/14.%20Zobrazenie%20tla%C4%8Didiel%20a%20okna%20pre%20vyzna%C4%8Denie%20poz%C3%ADcie%20.jpg)
 <details><summary>kód</summary>
 
-![CODE]()
+![CODE](https://github.com/AdamVavro/VBA-project1/blob/KT05_05/Code/Code%20screenshots/14.%2C%2015.%2C%2016.%20Raster%20stola%2C%20tla%C4%8Didl%C3%A1%20rastra%2C%20n%C3%A1vrat.jpg)
 </details>
 
 ---
@@ -207,10 +207,10 @@ Aplikácia slúži na jednoduché vytvorenie plánu upínania (ďalej len "plán
 <!--_________________________________________________________7.8__________________________________________________________________-->
 <details><summary>7.8 Pomocou zobrazených tlačidiel sa vyznačia pozície tlačných čapov.</summary>
 
-![SCRENSHOT]()
+![SCRENSHOT](https://github.com/AdamVavro/VBA-project1/blob/KT05_05/Screenshots/%C5%A4ahovka/15.%20Vyzna%C4%8Denie%20poz%C3%ADcie%20%C4%8Dapov%2C%20potvrdit%20OK.jpg)
 <details><summary>kód</summary>
 
-![CODE]()
+![CODE](https://github.com/AdamVavro/VBA-project1/blob/KT05_05/Code/Code%20screenshots/14.%2C%2015.%2C%2016.%20Raster%20stola%2C%20tla%C4%8Didl%C3%A1%20rastra%2C%20n%C3%A1vrat.jpg)
 </details>
 
 ---
