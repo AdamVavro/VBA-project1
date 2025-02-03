@@ -87,7 +87,7 @@ Aplikácia slúži na jednoduché vytvorenie plánu upínania (ďalej len "plán
 ![SCRENSHOT](https://github.com/AdamVavro/VBA-project1/blob/KT05_05/Screenshots/05.%20Tla%C4%8Didlo%20otvori%C5%A5%20formul%C3%A1r.jpg)
 <details><summary>kód</summary>
 
-![CODE](https://github.com/AdamVavro/VBA-project1/blob/KT05_05/Code/Code%20screenshots/05.%20Tla%C4%8Didlo%20Otvori%C5%A5%20formul%C3%A1r.jpg)
+![CODE](https://github.com/AdamVavro/VBA-project1/blob/KT05_05/Code/Code%20screenshots/05.%20%20Tla%C4%8Didlo%20Otvori%C5%A5%20formul%C3%A1r.jpg)
 </details>
 
 ---
