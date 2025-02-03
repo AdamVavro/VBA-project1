@@ -26,7 +26,7 @@ Aplikácia slúži na jednoduché vytvorenie plánu upínania (ďalej len "plán
 
 ## Použitie
 
-![GIF]()
+![GIF](https://github.com/AdamVavro/VBA-project1/blob/KT05_05/Screenshots/VBA-project-PU.gif)
 <!--1._________________________________________________________________________________________________________________________________________________________________________________________________-->
 <details><summary>1.<ins>Po otvorení nastaví veľkosť a polohu okna, skryje riadok vzorcov, skryje záhlavia, skryje mriežku a zbalí pás s nástrojmi.</ins></summary>
 
