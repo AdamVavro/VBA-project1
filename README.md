@@ -1,6 +1,6 @@
 # VBA aplikácia pre optimalizáciu práce s plánmi upínania
 
-Aplikácia slúži na jednoduché vytvorenie plánu upínania (ďalej len "plán") aj pre menej zdatného používateľa. Formulár ho navedie na doplnenie všetkých potrebných údajov z CAD modelua následné po kliknutí na tlačidlo "Uložiť plán upínania" sa automaticky uloží na všetkých potrebných miestach a v potrebných formátoch. Po uložení sa údaje exportujú do databázy, odkiaľ sa v prípade potreby dajú automaticky načítať do plánu.  
+Aplikácia slúži na jednoduché vytvorenie plánu upínania (ďalej len "plán") aj pre menej zdatného používateľa. Formulár ho navedie na doplnenie všetkých potrebných údajov z CAD modelu a následné po kliknutí na tlačidlo "Uložiť plán upínania" sa automaticky uloží na všetkých potrebných miestach a v potrebných formátoch. Po uložení sa údaje exportujú do databázy, odkiaľ sa v prípade potreby dajú automaticky načítať do plánu.  
 
 ### Skladá sa z troch častí:  
 - [Formulár](https://github.com/AdamVavro/VBA-project1/blob/KT05_05/Screenshots/%C5%A4ahovka/06.%20Formul%C3%A1r.jpg)
