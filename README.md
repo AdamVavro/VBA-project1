@@ -427,7 +427,7 @@ Aplikácia slúži na jednoduché vytvorenie plánu upínania (ďalej len "plán
 ![SCRENSHOT](https://github.com/AdamVavro/VBA-project1/blob/KT05_05/Screenshots/%C5%A4ahovka/27.1%20V%C5%A1etky%20%C3%BAdaje%20ulo%C5%BE%C3%AD%20do%20datab%C3%A1zy.jpg)
 <details><summary>kód</summary>
 
-![CODE]()
+![CODE](https://github.com/AdamVavro/VBA-project1/blob/KT05_05/Code/Code%20screenshots/27.%20Export%20%C3%BAdajov.png)
 </details>
 
 ---
@@ -439,10 +439,13 @@ Aplikácia slúži na jednoduché vytvorenie plánu upínania (ďalej len "plán
 <!--16._________________________________________________________________________________________________________________________________________________________________________________________________-->
 <details><summary>16.<ins>V prípade potreby sa dajú do plánu importovať údaje z databázy naspať.</ins></summary>
 
-![SCRENSHOT]()
+![SCRENSHOT](https://github.com/AdamVavro/VBA-project1/blob/KT05_05/Screenshots/%C5%A4ahovka/28.1%20V%20pr%C3%ADpade%20potreby%20na%C4%8D%C3%ADta%20%C3%BAdaje%20z%20datab%C3%A1zy.jpg)
+![SCRENSHOT](https://github.com/AdamVavro/VBA-project1/blob/KT05_05/Screenshots/%C5%A4ahovka/28.2%20V%20pr%C3%ADpade%20potreby%20na%C4%8D%C3%ADta%20%C3%BAdaje%20z%20datab%C3%A1zy(1).jpg)
+![SCRENSHOT](https://github.com/AdamVavro/VBA-project1/blob/KT05_05/Screenshots/%C5%A4ahovka/28.3%20V%20pr%C3%ADpade%20potreby%20na%C4%8D%C3%ADta%20%C3%BAdaje%20z%20datab%C3%A1zy(2).jpg)
+![SCRENSHOT](https://github.com/AdamVavro/VBA-project1/blob/KT05_05/Screenshots/%C5%A4ahovka/28.4%20Vyplenie%20pl%C3%A1nu%20na%C4%8D%C3%ADtan%C3%ADm%20%C3%BAdajov%20z%20datab%C3%A1zy.jpg)
 <details><summary>kód</summary>
 
-![CODE]()
+![CODE](https://github.com/AdamVavro/VBA-project1/blob/KT05_05/Code/Code%20screenshots/28.%20Import%20%C3%BAdajov.png)
 </details>
 
 ---
