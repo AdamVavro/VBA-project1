@@ -433,7 +433,7 @@ Aplikácia slúži na jednoduché vytvorenie plánu upínania (ďalej len "plán
  <!-- 15.	[Všetky údaje z plánu upínania sa exportujú do databázy]()<details><summary>Kód</summary>![Alternatívny text]()</details>-->
 
 <!--16._________________________________________________________________________________________________________________________________________________________________________________________________-->
-<details><summary>16.<ins>V prípade potreby sa dajú do plánu importovať údaje z databázy naspať.</ins></summary>
+<details><summary>16.<ins>V prípade potreby sa dajú do plánu importovať údaje z databázy naspäť.</ins></summary>
 
 ![SCRENSHOT](https://github.com/AdamVavro/VBA-project1/blob/KT05_05/Screenshots/%C5%A4ahovka/28.1%20V%20pr%C3%ADpade%20potreby%20na%C4%8D%C3%ADta%20%C3%BAdaje%20z%20datab%C3%A1zy.jpg)
 ![SCRENSHOT](https://github.com/AdamVavro/VBA-project1/blob/KT05_05/Screenshots/%C5%A4ahovka/28.2%20V%20pr%C3%ADpade%20potreby%20na%C4%8D%C3%ADta%20%C3%BAdaje%20z%20datab%C3%A1zy(1).jpg)
