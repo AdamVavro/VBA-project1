@@ -409,10 +409,10 @@ Aplikácia slúži na jednoduché vytvorenie plánu upínania (ďalej len "plán
 <!--14._________________________________________________________________________________________________________________________________________________________________________________________________-->
 <details><summary>14.<ins>Po potvrdení sa plán uloží 3x ako pdf súbor, 1x ako xlsm súbor a 1x ako jpg súbor.</ins></summary>
 
-![SCRENSHOT]()
+![SCRENSHOT](https://github.com/AdamVavro/VBA-project1/blob/KT05_05/Screenshots/%C5%A4ahovka/26.%20Ulo%C5%BE%C3%AD%20ako%20pdf%2C%20xlsm%2C%20jpg.jpg)
 <details><summary>kód</summary>
 
-![CODE]()
+![CODE](https://github.com/AdamVavro/VBA-project1/blob/KT05_05/Code/Code%20screenshots/25.%20Ulo%C5%BEi%C5%A5%20pl%C3%A1n%20up%C3%ADnania.jpg)
 </details>
 
 ---
@@ -424,7 +424,7 @@ Aplikácia slúži na jednoduché vytvorenie plánu upínania (ďalej len "plán
 <!--15._________________________________________________________________________________________________________________________________________________________________________________________________-->
 <details><summary>15.<ins>Všetky údaje z plánu upínania sa exportujú do databázy.</ins></summary>
 
-![SCRENSHOT]()
+![SCRENSHOT](https://github.com/AdamVavro/VBA-project1/blob/KT05_05/Screenshots/%C5%A4ahovka/27.1%20V%C5%A1etky%20%C3%BAdaje%20ulo%C5%BE%C3%AD%20do%20datab%C3%A1zy.jpg)
 <details><summary>kód</summary>
 
 ![CODE]()
