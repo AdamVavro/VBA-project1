@@ -345,7 +345,7 @@ Aplikácia slúži na jednoduché vytvorenie plánu upínania (ďalej len "plán
   <!--9.	[Zobrazí sa plán s doplnenými údajmi.]()<details><summary>Kód</summary>![Alternatívny text]()</details>-->
 
   <!--10._________________________________________________________________________________________________________________________________________________________________________________________________-->
-<details><summary>10.<ins>Po aktivovaní bunky v oblasti poznámky k nástroju sa zobrazia tlačidlá pre formátovanie poznámok.</ins></summary>
+<details><summary>10.<ins>Po aktivovaní bunky v oblasti "Poznámky k nástroju" sa zobrazia tlačidlá pre formátovanie poznámok.</ins></summary>
 
 ![SCRENSHOT](https://github.com/AdamVavro/VBA-project1/blob/KT05_05/Screenshots/%C5%A4ahovka/22.%20Form%C3%A1tovanie%20pozn%C3%A1mok.jpg)
 <details><summary>kód</summary>
