@@ -3,12 +3,12 @@
 Aplikácia slúži na jednoduché vytvorenie plánu upínania (ďalej len "plán") aj pre menej zdatného používateľa. Formulár ho navedie na doplnenie všetkých potrebných údajov z CAD modelu a následné po kliknutí na tlačidlo "Uložiť plán upínania" sa automaticky uloží na všetkých potrebných miestach a v potrebných formátoch. Po uložení sa údaje exportujú do databázy, odkiaľ sa v prípade potreby dajú automaticky načítať do plánu.  
 
 ### Skladá sa z troch častí:  
-- [Formulár](https://github.com/AdamVavro/VBA-project1/blob/KT05_05/Screenshots/06.%20Formul%C3%A1r.jpg)
-- [Plán upínania](https://github.com/AdamVavro/VBA-project1/blob/KT05_05/Screenshots/01.%20Pr%C3%A1zdny%20pl%C3%A1n%20up%C3%ADnania.jpg)
-- [Databáza](https://github.com/AdamVavro/VBA-project1/blob/KT05_05/Screenshots/27.2%20Datab%C3%A1za.jpg)
+- [Formulár](https://github.com/AdamVavro/VBA-project1/blob/main/Screenshots/06.%20Formul%C3%A1r.jpg)
+- [Plán upínania](https://github.com/AdamVavro/VBA-project1/blob/main/Screenshots/01.%20Pr%C3%A1zdny%20pl%C3%A1n%20up%C3%ADnania.jpg)
+- [Databáza](https://github.com/AdamVavro/VBA-project1/blob/main/Screenshots/27.2%20Datab%C3%A1za.jpg)
 
 
-![Alternatívny text](https://github.com/AdamVavro/VBA-project1/blob/KT05_05/Screenshots/00.%20Komplet.jpg)
+![Alternatívny text](https://github.com/AdamVavro/VBA-project1/blob/main/Screenshots/00.%20Komplet.jpg)
 
 
 <!--1.TEST__________________________________________________________________________________________________________________-->
@@ -26,7 +26,7 @@ Aplikácia slúži na jednoduché vytvorenie plánu upínania (ďalej len "plán
 
 ## Použitie
 
-![GIF](https://github.com/AdamVavro/VBA-project1/blob/KT05_05/Screenshots/VBA-project-PU%20(2).gif)
+![GIF](https://github.com/AdamVavro/VBA-project1/blob/main/Screenshots/VBA-project-PU%20(2).gif)
 <!--1._________________________________________________________________________________________________________________________________________________________________________________________________-->
 <details><summary>1.<ins>Po otvorení nastaví veľkosť a polohu okna, skryje riadok vzorcov, skryje záhlavia, skryje mriežku a zbalí pás s nástrojmi.</ins></summary>
 
