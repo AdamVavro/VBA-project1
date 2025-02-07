@@ -11,105 +11,103 @@ Aplikácia slúži na jednoduché vytvorenie plánu upínania (ďalej len "plán
 ![Alternatívny text](https://github.com/AdamVavro/VBA-project1/blob/main/Screenshots/00.%20Komplet.jpg)
 
 
-<!--1.TEST__________________________________________________________________________________________________________________-->
-
-<!--<details><summary>1.<ins>TEST</ins></summary>
-	
-![SCRENSHOT](https://github.com/AdamVavro/VBA-project1/blob/KT05_05/Screenshots/%C5%A4ahovka/01.%20Pr%C3%A1zdny%20pl%C3%A1n%20up%C3%ADnania.jpg)
-<details><summary>kód</summary>
-
-![CODE](https://github.com/AdamVavro/VBA-project1/blob/KT05_05/Code/Code%20screenshots/01.%20Po%20otvoren%C3%AD%20nastav%C3%AD%20ve%C4%BEkos%C5%A5%20okna.jpg)
-</details>
- 
----
-</details>-->
-
 ## Použitie
 
 ![GIF](https://github.com/AdamVavro/VBA-project1/blob/main/Screenshots/VBA-project-PU%20(2).gif)
+
+
+
+
 <!--1._________________________________________________________________________________________________________________________________________________________________________________________________-->
 <details><summary>1.<ins>Po otvorení nastaví veľkosť a polohu okna, skryje riadok vzorcov, skryje záhlavia, skryje mriežku a zbalí pás s nástrojmi.</ins></summary>
 
-![SCRENSHOT](https://github.com/AdamVavro/VBA-project1/blob/KT05_05/Screenshots/01.%20Pr%C3%A1zdny%20pl%C3%A1n%20up%C3%ADnania.jpg)
+![SCRENSHOT](https://github.com/AdamVavro/VBA-project1/blob/main/Screenshots/01.%20Pr%C3%A1zdny%20pl%C3%A1n%20up%C3%ADnania.jpg)
 <details><summary>kód</summary>
 
-![CODE](https://github.com/AdamVavro/VBA-project1/blob/KT05_05/Code/Code%20screenshots/01.%20Po%20otvoren%C3%AD%20nastav%C3%AD%20ve%C4%BEkos%C5%A5%20okna.jpg)
+![CODE](https://github.com/AdamVavro/VBA-project1/blob/main/Code/Code%20screenshots/01.%20Po%20otvoren%C3%AD%20nastav%C3%AD%20ve%C4%BEkos%C5%A5%20okna.jpg)
 </details>
 
 ---
 </details>
-<!--1.	[Po otvorení nastaví veľkosť a polohu okna, skryje riadok vzorcov, skryje záhlavia, skryje mriežku a zbalí pás s nástrojmi.](https://github.com/AdamVavro/VBA-project1/blob/KT05_05/Screenshots/%C5%A4ahovka/01.%20Pr%C3%A1zdny%20pl%C3%A1n%20up%C3%ADnania.jpg)<details><summary>Kód</summary>![Alternatívny text](https://github.com/AdamVavro/VBA-project1/blob/KT05_05/Code/Code%20screenshots/01.%20Po%20otvoren%C3%AD%20nastav%C3%AD%20ve%C4%BEkos%C5%A5%20okna.jpg)</details>-->
+
+
+
 
 <!--2._________________________________________________________________________________________________________________________________________________________________________________________________-->
 <details><summary>2.<ins>Po zadaní čísla nástroja sa zobrazí dialógové okno, ktoré sa spýta či si prajete doplniť základné údaje o nástroji z databázy.</ins></summary>
 
-![SCRENSHOT](https://github.com/AdamVavro/VBA-project1/blob/KT05_05/Screenshots/02.%20Doplni%C5%A5%20%C3%BAdaje.jpg)
+![SCRENSHOT](https://github.com/AdamVavro/VBA-project1/blob/main/Screenshots/02.%20Doplni%C5%A5%20%C3%BAdaje.jpg)
 <details><summary>kód</summary>
 
-![CODE](https://github.com/AdamVavro/VBA-project1/blob/KT05_05/Code/Code%20screenshots/02.%20%C4%8C%C3%ADslo%20n%C3%A1stroja.jpg)
+![CODE](https://github.com/AdamVavro/VBA-project1/blob/main/Code/Code%20screenshots/02.%20%C4%8C%C3%ADslo%20n%C3%A1stroja.jpg)
 </details>
 
 ---
 </details>	 
-<!--2.	[Po zadaní čísla nástroja sa zobrazí dialógové okno, ktoré sa spýta či si prajete doplniť základné údaje o nástroji z databázy.](https://github.com/AdamVavro/VBA-project1/blob/KT05_05/Screenshots/%C5%A4ahovka/02.%20Doplni%C5%A5%20%C3%BAdaje.jpg)<details><summary>Kód</summary>![Alternatívny text](https://github.com/AdamVavro/VBA-project1/blob/KT05_05/Code/Code%20screenshots/02.%20%C4%8C%C3%ADslo%20n%C3%A1stroja.jpg)</details>-->
+
+
+
 
 <!--3._________________________________________________________________________________________________________________________________________________________________________________________________-->
 <details><summary>3.<ins>Po potvrdení otvorí databázu, vyhľadá číslo nástroja, načíta príslušné informácie.</ins></summary>
 
-![SCRENSHOT](https://github.com/AdamVavro/VBA-project1/blob/KT05_05/Screenshots/03.%20Na%C4%8D%C3%ADtanie%20%C3%BAdajov%20z%20datab%C3%A1zy.jpg)
+![SCRENSHOT](https://github.com/AdamVavro/VBA-project1/blob/main/Screenshots/03.%20Na%C4%8D%C3%ADtanie%20%C3%BAdajov%20z%20datab%C3%A1zy.jpg)
 <details><summary>kód</summary>
 
-![CODE](https://github.com/AdamVavro/VBA-project1/blob/KT05_05/Code/Code%20screenshots/03.-04.%20Na%C4%8D%C3%ADta%20%C3%BAdaje%20z%20datab%C3%A1zy%20a%20dopln%C3%AD%20do%20pl%C3%A1nu.jpg)
+![CODE](https://github.com/AdamVavro/VBA-project1/blob/main/Code/Code%20screenshots/03.-04.%20Na%C4%8D%C3%ADta%20%C3%BAdaje%20z%20datab%C3%A1zy%20a%20dopln%C3%AD%20do%20pl%C3%A1nu.jpg)
 </details>
 
 ---
 </details>
 
-<!--3.	[Po potvrdení otvorí databázu, vyhľadá číslo nástroja, načíta príslušné informácie.](https://github.com/AdamVavro/VBA-project1/blob/KT05_05/Screenshots/%C5%A4ahovka/03.%20Na%C4%8D%C3%ADtanie%20%C3%BAdajov%20z%20datab%C3%A1zy.jpg)<details><summary>Kód</summary>![Alternatívny text](https://github.com/AdamVavro/VBA-project1/blob/KT05_05/Code/Code%20screenshots/03.-04.%20Na%C4%8D%C3%ADta%20%C3%BAdaje%20z%20datab%C3%A1zy%20a%20dopln%C3%AD%20do%20pl%C3%A1nu.jpg)</details>-->
+
+
 
 <!--4._________________________________________________________________________________________________________________________________________________________________________________________________-->
 <details><summary>4.<ins>Údaje sa doplnia do plánu.</ins></summary>
 
-![SCRENSHOT](https://github.com/AdamVavro/VBA-project1/blob/KT05_05/Screenshots/04.%20Automatick%C3%A9%20doplnenie%20%C3%BAdajov.jpg)
+![SCRENSHOT](https://github.com/AdamVavro/VBA-project1/blob/main/Screenshots/04.%20Automatick%C3%A9%20doplnenie%20%C3%BAdajov.jpg)
 <details><summary>kód</summary>
 
-![CODE](https://github.com/AdamVavro/VBA-project1/blob/KT05_05/Code/Code%20screenshots/03.-04.%20Na%C4%8D%C3%ADta%20%C3%BAdaje%20z%20datab%C3%A1zy%20a%20dopln%C3%AD%20do%20pl%C3%A1nu.jpg)
+![CODE](https://github.com/AdamVavro/VBA-project1/blob/main/Code/Code%20screenshots/03.-04.%20Na%C4%8D%C3%ADta%20%C3%BAdaje%20z%20datab%C3%A1zy%20a%20dopln%C3%AD%20do%20pl%C3%A1nu.jpg)
 </details>
 
 ---
 </details>
 
-<!--4.	[Údaje sa doplnia do plánu.](https://github.com/AdamVavro/VBA-project1/blob/KT05_05/Screenshots/%C5%A4ahovka/04.%20Automatick%C3%A9%20doplnenie%20%C3%BAdajov.jpg)<details><summary>Kód</summary>![Alternatívny text](https://github.com/AdamVavro/VBA-project1/blob/KT05_05/Code/Code%20screenshots/03.-04.%20Na%C4%8D%C3%ADta%20%C3%BAdaje%20z%20datab%C3%A1zy%20a%20dopln%C3%AD%20do%20pl%C3%A1nu.jpg)</details>-->
+
+
 
 <!--5._________________________________________________________________________________________________________________________________________________________________________________________________-->
 <details><summary>5.<ins>Klikneme na tlačidlo „Otvoriť formulár“. Okno s plánom sa minimalizuje a v ľavej časti obrazovky sa zobrazí formulár pre zápis údajov z modelu.</ins></summary>
 
-![SCRENSHOT](https://github.com/AdamVavro/VBA-project1/blob/KT05_05/Screenshots/05.%20Tla%C4%8Didlo%20otvori%C5%A5%20formul%C3%A1r.jpg)
+![SCRENSHOT](https://github.com/AdamVavro/VBA-project1/blob/main/Screenshots/05.%20Tla%C4%8Didlo%20otvori%C5%A5%20formul%C3%A1r.jpg)
 <details><summary>kód</summary>
 
-![CODE](https://github.com/AdamVavro/VBA-project1/blob/KT05_05/Code/Code%20screenshots/05.%20%20Tla%C4%8Didlo%20Otvori%C5%A5%20formul%C3%A1r.jpg)
+![CODE](https://github.com/AdamVavro/VBA-project1/blob/main/Code/Code%20screenshots/05.%20%20Tla%C4%8Didlo%20Otvori%C5%A5%20formul%C3%A1r.jpg)
 </details>
 
 ---
 </details>
 
 
-<!--5.	[Klikneme na tlačidlo „Otvoriť formulár“. Okno s plánom sa minimalizuje a v ľavej časti obrazovky sa zobrazí formulár pre zápis údajov z modelu.](https://github.com/AdamVavro/VBA-project1/blob/KT05_05/Screenshots/%C5%A4ahovka/05.%20Tla%C4%8Didlo%20otvori%C5%A5%20formul%C3%A1r.jpg)<details><summary>Kód</summary>![Alternatívny text](https://github.com/AdamVavro/VBA-project1/blob/KT05_05/Code/Code%20screenshots/05.%20Tla%C4%8Didlo%20Otvori%C5%A5%20formul%C3%A1r.jpg)</details>-->
+
 
 <!--6._________________________________________________________________________________________________________________________________________________________________________________________________-->
 <details><summary>6.<ins>Formulár.</ins></summary>
 
-![SCRENSHOT](https://github.com/AdamVavro/VBA-project1/blob/KT05_05/Screenshots/06.%20Formul%C3%A1r.jpg)
+![SCRENSHOT](https://github.com/AdamVavro/VBA-project1/blob/main/Screenshots/06.%20Formul%C3%A1r.jpg)
 <details><summary>kód</summary>
 
-[UserForm1.frm](https://github.com/AdamVavro/VBA-project1/blob/KT05_05/Code/Formulare/UserForm1.frm)
+[UserForm1.frm](https://github.com/AdamVavro/VBA-project1/blob/main/Code/Formulare/UserForm1.frm)
 </details>
 
 ---
 </details>
 
 
-<!--6.	[Formulár.]()<details><summary>Kód</summary>![Alternatívny text]()</details>-->
+
+
 
 <!--7._________________________________________________________________________________________________________________________________________________________________________________________________-->
 <details><summary>7.<ins>Otvoríme 3D model nástroja a pozapisujeme všetky údaje do formulára.</ins></summary>
