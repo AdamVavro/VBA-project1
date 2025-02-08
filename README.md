@@ -117,10 +117,10 @@ Aplikácia slúži na jednoduché vytvorenie plánu upínania (ďalej len "plán
 <!--_________________________________________________________7.1_________________________________________________________________-->
 <details><summary>7.1 Rozmery nástroja D, Š, V.</summary>
 
-![SCRENSHOT](https://github.com/AdamVavro/VBA-project1/blob/KT05_05/Screenshots/08.%20Rozmery%20n%C3%A1stroja.jpg)
+![SCRENSHOT](https://github.com/AdamVavro/VBA-project1/blob/main/Screenshots/08.%20Rozmery%20n%C3%A1stroja.jpg)
 <details><summary>kód</summary>
 
-![CODE](https://github.com/AdamVavro/VBA-project1/blob/KT05_05/Code/Code%20screenshots/08.%20Rozmery%20n%C3%A1stroja.jpg)
+![CODE](https://github.com/AdamVavro/VBA-project1/blob/main/Code/Code%20screenshots/08.%20Rozmery%20n%C3%A1stroja.jpg)
 </details>
 
 ---
@@ -129,10 +129,10 @@ Aplikácia slúži na jednoduché vytvorenie plánu upínania (ďalej len "plán
 <!--_________________________________________________________7.2__________________________________________________________________-->
 <details><summary>7.2 Vzdialenosť medzi drážkami.</summary>
 
-![SCRENSHOT](https://github.com/AdamVavro/VBA-project1/blob/KT05_05/Screenshots/09.Vzdialenos%C5%A5%20medzi%20dr%C3%A1%C5%BEkami.jpg)
+![SCRENSHOT](https://github.com/AdamVavro/VBA-project1/blob/main/Screenshots/09.Vzdialenos%C5%A5%20medzi%20dr%C3%A1%C5%BEkami.jpg)
 <details><summary>kód</summary>
 
-![CODE](https://github.com/AdamVavro/VBA-project1/blob/KT05_05/Code/Code%20screenshots/09.%20Vzdialenos%C5%A5%20medzi%20obl%C3%BAkmi..jpg)
+![CODE](https://github.com/AdamVavro/VBA-project1/blob/main/Code/Code%20screenshots/09.%20Vzdialenos%C5%A5%20medzi%20obl%C3%BAkmi..jpg)
 </details>
 
 ---
@@ -141,10 +141,10 @@ Aplikácia slúži na jednoduché vytvorenie plánu upínania (ďalej len "plán
 <!--_________________________________________________________7.3__________________________________________________________________-->
 <details><summary>7.3 Zdvih GDF(OB).</summary>
 
-![SCRENSHOT](https://github.com/AdamVavro/VBA-project1/blob/KT05_05/Screenshots/10.%20GDF(OB).jpg)
+![SCRENSHOT](https://github.com/AdamVavro/VBA-project1/blob/main/Screenshots/10.%20GDF(OB).jpg)
 <details><summary>kód</summary>
 
-![CODE](https://github.com/AdamVavro/VBA-project1/blob/KT05_05/Code/Code%20screenshots/10.%20Zdvih%20GDF(OB).jpg)
+![CODE](https://github.com/AdamVavro/VBA-project1/blob/main/Code/Code%20screenshots/10.%20Zdvih%20GDF(OB).jpg)
 </details>
 
 ---
@@ -153,10 +153,10 @@ Aplikácia slúži na jednoduché vytvorenie plánu upínania (ďalej len "plán
 <!--_________________________________________________________7.4__________________________________________________________________-->
 <details><summary>7.4 Upínacia výška nástroja.</summary>
 
-![SCRENSHOT](https://github.com/AdamVavro/VBA-project1/blob/KT05_05/Screenshots/11.%20Up%C3%ADnacia%20v%C3%BD%C5%A1ka%20n%C3%A1stroja.jpg)
+![SCRENSHOT](https://github.com/AdamVavro/VBA-project1/blob/main/Screenshots/11.%20Up%C3%ADnacia%20v%C3%BD%C5%A1ka%20n%C3%A1stroja.jpg)
 <details><summary>kód</summary>
 
-![CODE](https://github.com/AdamVavro/VBA-project1/blob/KT05_05/Code/Code%20screenshots/11.%20Up%C3%ADnacia%20v%C3%BD%C5%A1ka%20n8stroja.jpg)
+![CODE](https://github.com/AdamVavro/VBA-project1/blob/main/Code/Code%20screenshots/11.%20Up%C3%ADnacia%20v%C3%BD%C5%A1ka%20n8stroja.jpg)
 </details>
 
 ---
@@ -165,10 +165,10 @@ Aplikácia slúži na jednoduché vytvorenie plánu upínania (ďalej len "plán
 <!--_________________________________________________________7.5__________________________________________________________________-->
 <details><summary>7.5 Prítomnosť pridržiavača alebo GDF a možnosť upnutia do lisov PWS.</summary>
 
-![SCRENSHOT](https://github.com/AdamVavro/VBA-project1/blob/KT05_05/Screenshots/12.%20Pr%C3%ADtomnos%C5%A5%20pridr%C5%BEiava%C4%8Dov%20alebo%20GDF%20a%20mo%C5%BEnos%C5%A5%20upnutia%20do%20lisov%20PWS.jpg)
+![SCRENSHOT](https://github.com/AdamVavro/VBA-project1/blob/main/Screenshots/12.%20Pr%C3%ADtomnos%C5%A5%20pridr%C5%BEiava%C4%8Dov%20alebo%20GDF%20a%20mo%C5%BEnos%C5%A5%20upnutia%20do%20lisov%20PWS.jpg)
 <details><summary>kód</summary>
 
-![CODE](https://github.com/AdamVavro/VBA-project1/blob/KT05_05/Code/Code%20screenshots/12.%2C%2013.%20Pr%C3%ADtomnos%C5%A5%20pridr%C5%BEiava%C4%8Dov%2C%20mo%C5%BEnos%C5%A5%20upnutia.jpg)
+![CODE](https://github.com/AdamVavro/VBA-project1/blob/main/Code/Code%20screenshots/12.%2C%2013.%20Pr%C3%ADtomnos%C5%A5%20pridr%C5%BEiava%C4%8Dov%2C%20mo%C5%BEnos%C5%A5%20upnutia.jpg)
 </details>
 
 ---
@@ -177,10 +177,10 @@ Aplikácia slúži na jednoduché vytvorenie plánu upínania (ďalej len "plán
 <!--_________________________________________________________7.6__________________________________________________________________-->
 <details><summary>7.6 Dialógové okno „Prajete si vyznačiť pozíciu tlačných čapov?“.</summary>
 
-![SCRENSHOT](https://github.com/AdamVavro/VBA-project1/blob/KT05_05/Screenshots/13.%20Prajete%20si%20vyzna%C4%8Di%C5%A5%20poz%C3%ADciu%20%C4%8Dapov.jpg)
+![SCRENSHOT](https://github.com/AdamVavro/VBA-project1/blob/main/Screenshots/13.%20Prajete%20si%20vyzna%C4%8Di%C5%A5%20poz%C3%ADciu%20%C4%8Dapov.jpg)
 <details><summary>kód</summary>
 
-![CODE](https://github.com/AdamVavro/VBA-project1/blob/KT05_05/Code/Code%20screenshots/12.1%20Prajete%20si%20vyzna%C4%8Di%C5%A5%20poz%C3%ADciu%20tla%C4%8Dn%C3%BDch%20%C4%8Dapov.jpg)
+![CODE](https://github.com/AdamVavro/VBA-project1/blob/main/Code/Code%20screenshots/12.1%20Prajete%20si%20vyzna%C4%8Di%C5%A5%20poz%C3%ADciu%20tla%C4%8Dn%C3%BDch%20%C4%8Dapov.jpg)
 </details>
 
 ---
@@ -189,10 +189,10 @@ Aplikácia slúži na jednoduché vytvorenie plánu upínania (ďalej len "plán
 <!--_________________________________________________________7.7__________________________________________________________________-->
 <details><summary>7.7 Po potvrdení sa formulár zatvorí okno s plánom zmení rozmer a presunie sa vľavo dole a zobrazí raster stola. Po aktivovaní bunky v rastri stola sa zobrazia tlačidlá „Centrovanie“, „Tlačný čap“, „Voľné miesto“, „OK“.</summary>
 
-![SCRENSHOT](https://github.com/AdamVavro/VBA-project1/blob/KT05_05/Screenshots/14.%20Zobrazenie%20tla%C4%8Didiel%20a%20okna%20pre%20vyzna%C4%8Denie%20poz%C3%ADcie%20.jpg)
+![SCRENSHOT](https://github.com/AdamVavro/VBA-project1/blob/main/Screenshots/14.%20Zobrazenie%20tla%C4%8Didiel%20a%20okna%20pre%20vyzna%C4%8Denie%20poz%C3%ADcie%20.jpg)
 <details><summary>kód</summary>
 
-![CODE](https://github.com/AdamVavro/VBA-project1/blob/KT05_05/Code/Code%20screenshots/14.%2C%2015.%2C%2016.%20Raster%20stola%2C%20tla%C4%8Didl%C3%A1%20rastra%2C%20n%C3%A1vrat.jpg)
+![CODE](https://github.com/AdamVavro/VBA-project1/blob/main/Code/Code%20screenshots/14.%2C%2015.%2C%2016.%20Raster%20stola%2C%20tla%C4%8Didl%C3%A1%20rastra%2C%20n%C3%A1vrat.jpg)
 </details>
 
 ---
@@ -201,10 +201,10 @@ Aplikácia slúži na jednoduché vytvorenie plánu upínania (ďalej len "plán
 <!--_________________________________________________________7.8__________________________________________________________________-->
 <details><summary>7.8 Pomocou zobrazených tlačidiel sa vyznačia pozície tlačných čapov.</summary>
 
-![SCRENSHOT](https://github.com/AdamVavro/VBA-project1/blob/KT05_05/Screenshots/15.%20Vyzna%C4%8Denie%20poz%C3%ADcie%20%C4%8Dapov%2C%20potvrdit%20OK.jpg)
+![SCRENSHOT](https://github.com/AdamVavro/VBA-project1/blob/main/Screenshots/15.%20Vyzna%C4%8Denie%20poz%C3%ADcie%20%C4%8Dapov%2C%20potvrdit%20OK.jpg)
 <details><summary>kód</summary>
 
-![CODE](https://github.com/AdamVavro/VBA-project1/blob/KT05_05/Code/Code%20screenshots/15.%20Tla%C4%8Didl%C3%A1%20rastra.jpg)
+![CODE](https://github.com/AdamVavro/VBA-project1/blob/main/Code/Code%20screenshots/15.%20Tla%C4%8Didl%C3%A1%20rastra.jpg)
 </details>
 
 ---
@@ -213,10 +213,10 @@ Aplikácia slúži na jednoduché vytvorenie plánu upínania (ďalej len "plán
 <!--_________________________________________________________7.9__________________________________________________________________-->
 <details><summary>7.9 Keď je všetko vyznačené pomocou tlačidla „OK“ sa okno zavrie a opäť sa zobrazí formulár.</summary>
 
-![SCRENSHOT](https://github.com/AdamVavro/VBA-project1/blob/KT05_05/Screenshots/16.%20N%C3%A1vrat%20do%20formul%C3%A1ra.jpg)
+![SCRENSHOT](https://github.com/AdamVavro/VBA-project1/blob/main/Screenshots/16.%20N%C3%A1vrat%20do%20formul%C3%A1ra.jpg)
 <details><summary>kód</summary>
 
-![CODE](https://github.com/AdamVavro/VBA-project1/blob/KT05_05/Code/Code%20screenshots/16.%20Tla%C4%8Didlo%20OK.jpg)
+![CODE](https://github.com/AdamVavro/VBA-project1/blob/main/Code/Code%20screenshots/16.%20Tla%C4%8Didlo%20OK.jpg)
 </details>
 
 ---
@@ -225,7 +225,7 @@ Aplikácia slúži na jednoduché vytvorenie plánu upínania (ďalej len "plán
 <!--_________________________________________________________7.10__________________________________________________________________-->
 <details><summary>7.10 Priemer centrovania.</summary>
 
-![SCRENSHOT](https://github.com/AdamVavro/VBA-project1/blob/KT05_05/Screenshots/17.%20Priemer%20centrovania.jpg)
+![SCRENSHOT](https://github.com/AdamVavro/VBA-project1/blob/main/Screenshots/17.%20Priemer%20centrovania.jpg)
 <details><summary>kód</summary>
 
 </details>
@@ -236,11 +236,11 @@ Aplikácia slúži na jednoduché vytvorenie plánu upínania (ďalej len "plán
 <!--_________________________________________________________7.11__________________________________________________________________-->
 <details><summary>7.11 Po zapísaní súradníc centrovania z modelu sa automaticky prevedú na súradnice plánu upínania  a podľa nich sa vyznačí v rastri stola pozícia centrovania.</summary>
 
-![SCRENSHOT](https://github.com/AdamVavro/VBA-project1/blob/KT05_05/Screenshots/18.%20S%C3%BAradnice%20centrovania.jpg)
+![SCRENSHOT](https://github.com/AdamVavro/VBA-project1/blob/main/Screenshots/18.%20S%C3%BAradnice%20centrovania.jpg)
 <details><summary>kód</summary>
 
-![CODE](https://github.com/AdamVavro/VBA-project1/blob/KT05_05/Code/Code%20screenshots/18.1%20Centrovanie%20n%C3%A1stroja.jpg)
-![CODE](https://github.com/AdamVavro/VBA-project1/blob/KT05_05/Code/Code%20screenshots/18.2%20Centrovanie%20n%C3%A1stroja.jpg)
+![CODE](https://github.com/AdamVavro/VBA-project1/blob/main/Code/Code%20screenshots/18.1%20Centrovanie%20n%C3%A1stroja.jpg)
+![CODE](https://github.com/AdamVavro/VBA-project1/blob/main/Code/Code%20screenshots/18.2%20Centrovanie%20n%C3%A1stroja.jpg)
 </details>
 
 ---
@@ -249,10 +249,10 @@ Aplikácia slúži na jednoduché vytvorenie plánu upínania (ďalej len "plán
 <!--_________________________________________________________7.12__________________________________________________________________-->
 <details><summary>7.12 Po zadaní smeru lisovania sa v pláne zobrazí smer lisovania.</summary>
 
-![SCRENSHOT](https://github.com/AdamVavro/VBA-project1/blob/KT05_05/Screenshots/19.%20Smer%20lisovania.jpg)
+![SCRENSHOT](https://github.com/AdamVavro/VBA-project1/blob/main/Screenshots/19.%20Smer%20lisovania.jpg)
 <details><summary>kód</summary>
 
-![CODE](https://github.com/AdamVavro/VBA-project1/blob/KT05_05/Code/Code%20screenshots/19.%20Smer%20lisovania.jpg)
+![CODE](https://github.com/AdamVavro/VBA-project1/blob/main/Code/Code%20screenshots/19.%20Smer%20lisovania.jpg)
 </details>
 
 ---
@@ -261,10 +261,10 @@ Aplikácia slúži na jednoduché vytvorenie plánu upínania (ďalej len "plán
 <!--_________________________________________________________7.13__________________________________________________________________-->
 <details><summary>7.13 Vyplniť poznámky.</summary>
 
-![SCRENSHOT](https://github.com/AdamVavro/VBA-project1/blob/KT05_05/Screenshots/20.%20Pozn%C3%A1mky(1).jpg)
+![SCRENSHOT](https://github.com/AdamVavro/VBA-project1/blob/main/Screenshots/20.%20Pozn%C3%A1mky(1).jpg)
 <details><summary>kód</summary>
 
-![CODE](https://github.com/AdamVavro/VBA-project1/blob/KT05_05/Code/Code%20screenshots/20.%20Pozn%C3%A1mky.jpg)
+![CODE](https://github.com/AdamVavro/VBA-project1/blob/main/Code/Code%20screenshots/20.%20Pozn%C3%A1mky.jpg)
 </details>
 
 ---
@@ -315,10 +315,10 @@ Aplikácia slúži na jednoduché vytvorenie plánu upínania (ďalej len "plán
 <!--8._________________________________________________________________________________________________________________________________________________________________________________________________-->
 <details><summary>8.<ins>Po kliknutí na tlačidlo "Zatvoriť formulár" sa formulár zavrie.</ins></summary>
 
-![SCRENSHOT](https://github.com/AdamVavro/VBA-project1/blob/KT05_05/Screenshots/20.%20Pozn%C3%A1mky%2C%20zatvori%C5%A5%20formul%C3%A1r.jpg)
+![SCRENSHOT](https://github.com/AdamVavro/VBA-project1/blob/main/Screenshots/20.%20Pozn%C3%A1mky%2C%20zatvori%C5%A5%20formul%C3%A1r.jpg)
 <details><summary>kód</summary>
 
-![CODE](https://github.com/AdamVavro/VBA-project1/blob/KT05_05/Code/Code%20screenshots/20.1%20Zatvorit%20formul%C3%A1r.jpg)
+![CODE](https://github.com/AdamVavro/VBA-project1/blob/main/Code/Code%20screenshots/20.1%20Zatvorit%20formul%C3%A1r.jpg)
 </details>
 
 ---
@@ -331,7 +331,7 @@ Aplikácia slúži na jednoduché vytvorenie plánu upínania (ďalej len "plán
  <!--9._________________________________________________________________________________________________________________________________________________________________________________________________-->
 <details><summary>9.<ins>Zobrazí sa plán s doplnenými údajmi.</ins></summary>
 
-![SCRENSHOT](https://github.com/AdamVavro/VBA-project1/blob/KT05_05/Screenshots/21.%20Na%C4%8D%C3%ADtanie%20udajov%20z%20formul%C3%A1ra%20do%20pl%C3%A1nu.jpg)
+![SCRENSHOT](https://github.com/AdamVavro/VBA-project1/blob/main/Screenshots/21.%20Na%C4%8D%C3%ADtanie%20udajov%20z%20formul%C3%A1ra%20do%20pl%C3%A1nu.jpg)
 <!--<details><summary>kód</summary>-->
 
 <!--![CODE]()-->
@@ -345,10 +345,10 @@ Aplikácia slúži na jednoduché vytvorenie plánu upínania (ďalej len "plán
   <!--10._________________________________________________________________________________________________________________________________________________________________________________________________-->
 <details><summary>10.<ins>Po aktivovaní bunky v oblasti "Poznámky k nástroju" sa zobrazia tlačidlá pre formátovanie poznámok.</ins></summary>
 
-![SCRENSHOT](https://github.com/AdamVavro/VBA-project1/blob/KT05_05/Screenshots/22.%20Form%C3%A1tovanie%20pozn%C3%A1mok.jpg)
+![SCRENSHOT](https://github.com/AdamVavro/VBA-project1/blob/main/Screenshots/22.%20Form%C3%A1tovanie%20pozn%C3%A1mok.jpg)
 <details><summary>kód</summary>
 
-![CODE](https://github.com/AdamVavro/VBA-project1/blob/KT05_05/Code/Code%20screenshots/22.%20Form%C3%A1tovanie%20pozn%C3%A1mok.jpg)
+![CODE](https://github.com/AdamVavro/VBA-project1/blob/main/Code/Code%20screenshots/22.%20Form%C3%A1tovanie%20pozn%C3%A1mok.jpg)
 </details>
 
 ---
@@ -359,10 +359,10 @@ Aplikácia slúži na jednoduché vytvorenie plánu upínania (ďalej len "plán
 <!--11._________________________________________________________________________________________________________________________________________________________________________________________________-->
 <details><summary>11.<ins>Po zapísaní údajov do oblasti „Pracovné tlaky a nastavenia“ sa zobrazí dialógové okno, ktoré sa spýta, či chcem údaj zapísať do databázy.</ins></summary>
 
-![SCRENSHOT](https://github.com/AdamVavro/VBA-project1/blob/KT05_05/Screenshots/23.%20Ulo%C5%BEi%C5%A5%20parametre%20do%20datab%C3%A1zy.jpg)
+![SCRENSHOT](https://github.com/AdamVavro/VBA-project1/blob/main/Screenshots/23.%20Ulo%C5%BEi%C5%A5%20parametre%20do%20datab%C3%A1zy.jpg)
 <details><summary>kód</summary>
 
-![CODE](https://github.com/AdamVavro/VBA-project1/blob/KT05_05/Code/Code%20screenshots/23.%2C%2024.%20Importuje%20Pracovn%C3%A9%20tlaky%20a%20nastavenia%20do%20datab%C3%A1zy.jpg)
+![CODE](https://github.com/AdamVavro/VBA-project1/blob/main/Code/Code%20screenshots/23.%2C%2024.%20Importuje%20Pracovn%C3%A9%20tlaky%20a%20nastavenia%20do%20datab%C3%A1zy.jpg)
 </details>
 
 ---
@@ -373,11 +373,11 @@ Aplikácia slúži na jednoduché vytvorenie plánu upínania (ďalej len "plán
 <!--12._________________________________________________________________________________________________________________________________________________________________________________________________-->
 <details><summary>12.<ins>Po potvrdení sa otvorí databáza vyhľadá sa číslo nástroja a konkrétna bunka s príslušným údajom. Údaj sa zapíše do bunky v databáz a v komentári bunky ktorý slúži ako archív sa zaznamená dátum, čas a zapísaná hodnota.</ins></summary>
 
-![SCRENSHOT](https://github.com/AdamVavro/VBA-project1/blob/KT05_05/Screenshots/23.%20Z%C3%A1pis%20parametrov%20do%20datab%C3%A1zy.jpg)
-![SCRENSHOT](https://github.com/AdamVavro/VBA-project1/blob/KT05_05/Screenshots/24.%20Arch%C3%ADv%20parametrov%20v%20koment%C3%A1ri.jpg)
+![SCRENSHOT](https://github.com/AdamVavro/VBA-project1/blob/main/Screenshots/23.%20Z%C3%A1pis%20parametrov%20do%20datab%C3%A1zy.jpg)
+![SCRENSHOT](https://github.com/AdamVavro/VBA-project1/blob/main/Screenshots/24.%20Arch%C3%ADv%20parametrov%20v%20koment%C3%A1ri.jpg)
 <details><summary>kód</summary>
 
-![CODE](https://github.com/AdamVavro/VBA-project1/blob/KT05_05/Code/Code%20screenshots/23.%2C%2024.%20Importuje%20Pracovn%C3%A9%20tlaky%20a%20nastavenia%20do%20datab%C3%A1zy.jpg)
+![CODE](https://github.com/AdamVavro/VBA-project1/blob/main/Code/Code%20screenshots/23.%2C%2024.%20Importuje%20Pracovn%C3%A9%20tlaky%20a%20nastavenia%20do%20datab%C3%A1zy.jpg)
 </details>
 
 ---
@@ -389,10 +389,10 @@ Aplikácia slúži na jednoduché vytvorenie plánu upínania (ďalej len "plán
 <!--13._________________________________________________________________________________________________________________________________________________________________________________________________-->
 <details><summary>13.<ins>Po kliknutí na tlačidlo „Uložiť plán upínania“ sa zobrazí dialógové okno, kde sa zobrazí názov uloženého súboru a adresa kde sa plán uloží.</ins></summary>
 
-![SCRENSHOT](https://github.com/AdamVavro/VBA-project1/blob/KT05_05/Screenshots/25.%20Tla%C4%8Didlo%20ulo%C5%BEi%C5%A5%20pl%C3%A1n%20up%C3%ADnania.jpg)
+![SCRENSHOT](https://github.com/AdamVavro/VBA-project1/blob/main/Screenshots/25.%20Tla%C4%8Didlo%20ulo%C5%BEi%C5%A5%20pl%C3%A1n%20up%C3%ADnania.jpg)
 <details><summary>kód</summary>
 
-![CODE](https://github.com/AdamVavro/VBA-project1/blob/KT05_05/Code/Code%20screenshots/25.%20Ulo%C5%BEi%C5%A5%20pl%C3%A1n%20up%C3%ADnania.jpg)
+![CODE](https://github.com/AdamVavro/VBA-project1/blob/main/Code/Code%20screenshots/25.%20Ulo%C5%BEi%C5%A5%20pl%C3%A1n%20up%C3%ADnania.jpg)
 </details>
 
 ---
@@ -404,10 +404,10 @@ Aplikácia slúži na jednoduché vytvorenie plánu upínania (ďalej len "plán
 <!--14._________________________________________________________________________________________________________________________________________________________________________________________________-->
 <details><summary>14.<ins>Po potvrdení sa plán uloží 3x ako pdf súbor, 1x ako xlsm súbor a 1x ako jpg súbor.</ins></summary>
 
-![SCRENSHOT](https://github.com/AdamVavro/VBA-project1/blob/KT05_05/Screenshots/26.%20Ulo%C5%BE%C3%AD%20ako%20pdf%2C%20xlsm%2C%20jpg(2).jpg)
+![SCRENSHOT](https://github.com/AdamVavro/VBA-project1/blob/main/Screenshots/26.%20Ulo%C5%BE%C3%AD%20ako%20pdf%2C%20xlsm%2C%20jpg(2).jpg)
 <details><summary>kód</summary>
 
-![CODE](https://github.com/AdamVavro/VBA-project1/blob/KT05_05/Code/Code%20screenshots/25.%20Ulo%C5%BEi%C5%A5%20pl%C3%A1n%20up%C3%ADnania.jpg)
+![CODE](https://github.com/AdamVavro/VBA-project1/blob/main/Code/Code%20screenshots/25.%20Ulo%C5%BEi%C5%A5%20pl%C3%A1n%20up%C3%ADnania.jpg)
 </details>
 
 ---
@@ -419,10 +419,10 @@ Aplikácia slúži na jednoduché vytvorenie plánu upínania (ďalej len "plán
 <!--15._________________________________________________________________________________________________________________________________________________________________________________________________-->
 <details><summary>15.<ins>Všetky údaje z plánu upínania sa exportujú do databázy.</ins></summary>
 
-![SCRENSHOT](https://github.com/AdamVavro/VBA-project1/blob/KT05_05/Screenshots/27.1%20V%C5%A1etky%20%C3%BAdaje%20ulo%C5%BE%C3%AD%20do%20datab%C3%A1zy.jpg)
+![SCRENSHOT](https://github.com/AdamVavro/VBA-project1/blob/main/Screenshots/27.1%20V%C5%A1etky%20%C3%BAdaje%20ulo%C5%BE%C3%AD%20do%20datab%C3%A1zy.jpg)
 <details><summary>kód</summary>
 
-![CODE](https://github.com/AdamVavro/VBA-project1/blob/KT05_05/Code/Code%20screenshots/27.%20Export%20%C3%BAdajov.png)
+![CODE](https://github.com/AdamVavro/VBA-project1/blob/main/Code/Code%20screenshots/27.%20Export%20%C3%BAdajov.png)
 </details>
 
 ---
@@ -434,13 +434,13 @@ Aplikácia slúži na jednoduché vytvorenie plánu upínania (ďalej len "plán
 <!--16._________________________________________________________________________________________________________________________________________________________________________________________________-->
 <details><summary>16.<ins>V prípade potreby sa dajú do plánu importovať údaje z databázy naspäť.</ins></summary>
 
-![SCRENSHOT](https://github.com/AdamVavro/VBA-project1/blob/KT05_05/Screenshots/28.1%20V%20pr%C3%ADpade%20potreby%20na%C4%8D%C3%ADta%20%C3%BAdaje%20z%20datab%C3%A1zy.jpg)
-![SCRENSHOT](https://github.com/AdamVavro/VBA-project1/blob/KT05_05/Screenshots/28.2%20V%20pr%C3%ADpade%20potreby%20na%C4%8D%C3%ADta%20%C3%BAdaje%20z%20datab%C3%A1zy(1).jpg)
-![SCRENSHOT](https://github.com/AdamVavro/VBA-project1/blob/KT05_05/Screenshots/28.3%20V%20pr%C3%ADpade%20potreby%20na%C4%8D%C3%ADta%20%C3%BAdaje%20z%20datab%C3%A1zy(2).jpg)
-![SCRENSHOT](https://github.com/AdamVavro/VBA-project1/blob/KT05_05/Screenshots/28.4%20Vyplenie%20pl%C3%A1nu%20na%C4%8D%C3%ADtan%C3%ADm%20%C3%BAdajov%20z%20datab%C3%A1zy.jpg)
+![SCRENSHOT](https://github.com/AdamVavro/VBA-project1/blob/main/Screenshots/28.1%20V%20pr%C3%ADpade%20potreby%20na%C4%8D%C3%ADta%20%C3%BAdaje%20z%20datab%C3%A1zy.jpg)
+![SCRENSHOT](https://github.com/AdamVavro/VBA-project1/blob/main/Screenshots/28.2%20V%20pr%C3%ADpade%20potreby%20na%C4%8D%C3%ADta%20%C3%BAdaje%20z%20datab%C3%A1zy(1).jpg)
+![SCRENSHOT](https://github.com/AdamVavro/VBA-project1/blob/main/Screenshots/28.3%20V%20pr%C3%ADpade%20potreby%20na%C4%8D%C3%ADta%20%C3%BAdaje%20z%20datab%C3%A1zy(2).jpg)
+![SCRENSHOT](https://github.com/AdamVavro/VBA-project1/blob/main/Screenshots/28.4%20Vyplenie%20pl%C3%A1nu%20na%C4%8D%C3%ADtan%C3%ADm%20%C3%BAdajov%20z%20datab%C3%A1zy.jpg)
 <details><summary>kód</summary>
 
-![CODE](https://github.com/AdamVavro/VBA-project1/blob/KT05_05/Code/Code%20screenshots/28.%20Import%20%C3%BAdajov.png)
+![CODE](https://github.com/AdamVavro/VBA-project1/blob/main/Code/Code%20screenshots/28.%20Import%20%C3%BAdajov.png)
 </details>
 
 ---
