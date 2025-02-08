@@ -226,9 +226,9 @@ Aplikácia slúži na jednoduché vytvorenie plánu upínania (ďalej len "plán
 <details><summary>7.10 Priemer centrovania.</summary>
 
 ![SCRENSHOT](https://github.com/AdamVavro/VBA-project1/blob/main/Screenshots/17.%20Priemer%20centrovania.jpg)
-<details><summary>kód</summary>
+<!--<details><summary>kód</summary>
 
-</details>
+</details>-->
 
 ---
 </details>
