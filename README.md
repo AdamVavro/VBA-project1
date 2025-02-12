@@ -19,10 +19,10 @@ Aplikácia slúži na jednoduché vytvorenie plánu upínania (ďalej len "plán
 
 
 <!--1._________________________________________________________________________________________________________________________________________________________________________________________________-->
-<details><summary>1.<ins>Po otvorení nastaví veľkosť a polohu okna, skryje riadok vzorcov, skryje záhlavia, skryje mriežku a zbalí pás s nástrojmi.</ins></summary>
+<details open><summary>1.<ins>Po otvorení nastaví veľkosť a polohu okna, skryje riadok vzorcov, skryje záhlavia, skryje mriežku a zbalí pás s nástrojmi.</ins></summary>
 
 ![SCRENSHOT](https://github.com/AdamVavro/VBA-project1/blob/main/Screenshots/01.%20Pr%C3%A1zdny%20pl%C3%A1n%20up%C3%ADnania.jpg)
-<details><summary>kód</summary>
+<details open><summary>kód</summary>
 
 ![CODE](https://github.com/AdamVavro/VBA-project1/blob/main/Code/Code%20screenshots/01.%20Po%20otvoren%C3%AD%20nastav%C3%AD%20ve%C4%BEkos%C5%A5%20okna.jpg)
 </details>
